@@ -11,7 +11,6 @@ What seasonal patterns emerged that we should account for in our sales forecasti
 Where are we seeing concerning revenue drops that require immediate attention?
 
 ## Key Business Metrics Analyzed
-
 Subscription Revenue: Weekly bookings performance across all plan tiers ($2.1M+ analyzed)
 Customer Segmentation: Enterprise vs. Business vs. Pro plan performance and trends
 Geographic Performance: Regional revenue distribution and volatility patterns
@@ -20,13 +19,11 @@ Contract Value: Annual vs. monthly subscription preference and revenue impact
 <img width="738" alt="zoom_subs_dashboard_preview" src="https://github.com/Rblewett9/Zoom-Subscription-Trends-Analysis-2020-to-2021-/assets/136934891/81b9bd9e-eb62-4b50-aede-6c8c58892d55">
 
 ## Executive Summary
-
 Enterprise segment drove pandemic growth with $226K weekly peak but shows concerning seasonal vulnerability
 Business plan revenue has completely disappeared by end of 2021, indicating competitive threat or product issue
 Annual contracts represent 90%+ of revenue but declining, risking our most valuable customer base
 
 ## Key Business Insights
-
 1. Enterprise Segment Shows High Growth Potential but Seasonal Risk
 Finding: Enterprise plans spiked to record $226K weekly bookings during early pandemic but consistently drop 40-50% during summer months
 Business Impact: This seasonal pattern puts $1.8M+ in quarterly revenue at risk during summer periods
@@ -46,19 +43,20 @@ Recommendation: Work with Sales team to implement annual contract incentives, tr
 Finding: North America generated nearly 67% of pandemic peak revenue, with EMEA showing highest volatility across regions
 Business Impact: Heavy reliance on single region creates revenue vulnerability to North American market changes
 Recommendation: Develop region-specific growth strategies for EMEA market stabilization and expand marketing efforts in APAC and LATAM to diversify revenue base
-Methodology
 
+## Methodology
 Analysis Period: January 2020 - December 2021 (24 months of pandemic-era data)
 Data Scope: 100K+ subscription records across all plan types and regions
 Key Dimensions: Plan type, contract period, geographic region, weekly trending
 Tools & Approach
 
+## Tools & Approach
 SQL: Data extraction and transformation of subscription databases
 Excel: Statistical analysis and trend identification
 Tableau: Executive dashboard creation and trend visualization
 Business Intelligence: KPI development and performance monitoring framework
 
-Strategic Impact & Next Steps
+## Strategic Impact & Next Steps
 This analysis provides the foundation for 2022 revenue planning and identifies three critical areas requiring immediate attention:
 
 Enterprise retention strategy to combat seasonal revenue drops
