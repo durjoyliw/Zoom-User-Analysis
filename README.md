@@ -5,7 +5,7 @@ In this portfolio analysis, I examined Zoom's subscription performance during th
 
 ## Business Question
 
-Primary Question: 
+**Primary Question:**
 - How did the pandemic impact our subscription revenue trends across different customer segments, and where should we focus our efforts to maintain growth momentum?
 
 Supporting Questions:
