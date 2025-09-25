@@ -1,4 +1,4 @@
-# Zoom Subscription Trends Analysis (2020 to 2021)
+# Zoom Paid User Trends Analysis (2020 to 2021)
 Analysing Zoom subscription dynamics during the pandemic (2020-2021), using Excel, SQL and Tableau.
 
 <img width="738" alt="zoom_subs_dashboard_preview" src="https://github.com/Rblewett9/Zoom-Subscription-Trends-Analysis-2020-to-2021-/assets/136934891/81b9bd9e-eb62-4b50-aede-6c8c58892d55">
