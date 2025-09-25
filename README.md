@@ -3,6 +3,8 @@
 ## Business Context
 In this portfolio analysis, I examined Zoom's subscription performance during the critical 2020-2021 period from the perspective of a Business Analyst supporting the Sales and Marketing teams' strategic planning and revenue recovery initiatives following the unprecedented pandemic-driven growth and subsequent market stabilization.
 
+## Business Question
+
 Primary Question: 
 - How did the pandemic impact our subscription revenue trends across different customer segments, and where should we focus our efforts to maintain growth momentum?
 
