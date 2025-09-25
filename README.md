@@ -1,12 +1,11 @@
-# Zoom Paid User Trends Analysis (2020 to 2021)
-Analysing Zoom subscription dynamics during the pandemic (2020-2021), using Excel, SQL and Tableau.
+# Zoom Paid User Performance Analysis - COVID Impact Assessment
 
-
-
-Zoom Paid User Performance Analysis - COVID Impact Assessment
 Business Context
-As a student of Business Analytics, I conducted a comprehensive analysis of Zoom's paid user performance during the critical 2020-2021 period to support the Sales and Marketing teams' strategic planning and revenue recovery initiatives following the unprecedented pandemic-driven growth and subsequent market stabilization.
+
+As a student of Business Analytics, I put myself as a Business Analyst of Zoom and conducted a comprehensive analysis of their paid user performance during the critical 2020-2021 period to support the Sales and Marketing teams' strategic planning and revenue recovery initiatives following the unprecedented pandemic-driven growth and subsequent market stabilization.
+
 Business Question
+
 Primary Question: How did the pandemic impact our subscription revenue trends across different customer segments, and where should we focus our efforts to maintain growth momentum?
 Supporting Questions:
 
