@@ -1,10 +1,10 @@
 # Zoom Paid User Performance Analysis - COVID Impact Assessment
 
-Business Context
+## Business Context
+In this portfolio analysis, I examined Zoom's subscription performance during the critical 2020-2021 period from the perspective of a Business Analyst supporting the Sales and Marketing teams' strategic planning and revenue recovery initiatives following the unprecedented pandemic-driven growth and subsequent market stabilization.
 
-As a student of Business Analytics, I put myself as a Business Analyst of Zoom and conducted a comprehensive analysis of their paid user performance during the critical 2020-2021 period to support the Sales and Marketing teams' strategic planning and revenue recovery initiatives following the unprecedented pandemic-driven growth and subsequent market stabilization.
-
-Business Question
+## Business Context
+In this portfolio analysis, I examined Zoom's subscription performance during the critical 2020-2021 period from the perspective of a **Business Analyst** supporting the **Sales and Marketing teams'** strategic planning and revenue recovery initiatives following the unprecedented pandemic-driven growth and subsequent market stabilization.Business Question
 
 Primary Question: How did the pandemic impact our subscription revenue trends across different customer segments, and where should we focus our efforts to maintain growth momentum?
 Supporting Questions:
@@ -13,7 +13,7 @@ Which plan types and regions drove our pandemic growth, and how sustainable are 
 What seasonal patterns emerged that we should account for in our sales forecasting?
 Where are we seeing concerning revenue drops that require immediate attention?
 
-Key Business Metrics Analyzed
+## Key Business Metrics Analyzed
 
 Subscription Revenue: Weekly bookings performance across all plan tiers ($2.1M+ analyzed)
 Customer Segmentation: Enterprise vs. Business vs. Pro plan performance and trends
@@ -22,13 +22,13 @@ Contract Value: Annual vs. monthly subscription preference and revenue impact
 
 <img width="738" alt="zoom_subs_dashboard_preview" src="https://github.com/Rblewett9/Zoom-Subscription-Trends-Analysis-2020-to-2021-/assets/136934891/81b9bd9e-eb62-4b50-aede-6c8c58892d55">
 
-Executive Summary
+## Executive Summary
 
 Enterprise segment drove pandemic growth with $226K weekly peak but shows concerning seasonal vulnerability
 Business plan revenue has completely disappeared by end of 2021, indicating competitive threat or product issue
 Annual contracts represent 90%+ of revenue but declining, risking our most valuable customer base
 
-Key Business Insights
+## Key Business Insights
 
 1. Enterprise Segment Shows High Growth Potential but Seasonal Risk
 Finding: Enterprise plans spiked to record $226K weekly bookings during early pandemic but consistently drop 40-50% during summer months
@@ -68,7 +68,7 @@ Enterprise retention strategy to combat seasonal revenue drops
 Business segment recovery plan to recapture lost mid-market share
 Annual contract optimization to protect our highest-value customer base
 
-Recommended Follow-up Analysis:
+## Recommended Follow-up Analysis:
 
 Customer cohort analysis to understand retention patterns by segment
 Competitive pricing analysis for Business plan repositioning
