@@ -1,0 +1,1001 @@
+﻿sub_start_date,sub_start_week,sub_start_month,sub_start_quarter,sub_start_year,user,sub,sub_period,full_sub_name,local_price,price_usd,currency,country_code,continent,full_country_name,continent_iso,country_iso,region,region_detail,price_usd_calc
+12/5/2020,48,12/1/2020,12/1/2020,1/1/2020,126480185,pro,year,pro year,84,107,USD,PE,South America,Peru,SA,PE,LATAM,Latin America and the Caribbean,84
+10/7/2020,40,10/1/2020,10/1/2020,1/1/2020,124626227,pro,month,pro month,12,35,USD,IN,Asia,India,AS,IN,APAC,Southern Asia,12
+11/16/2021,46,11/1/2021,11/1/2021,1/1/2021,154863831,pro,year,pro year,69,100.34,EUR,US,North America,United States,NA,US,NA,Northern America,77.28
+4/5/2021,14,4/1/2021,4/1/2021,1/1/2021,136818440,pro,month,pro month,11.7,34.7,USD,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,11.7
+4/16/2021,15,4/1/2021,4/1/2021,1/1/2021,137550309,pro,year,pro year,83.08,106.08,USD,US,North America,United States,NA,US,NA,Northern America,83.08
+7/16/2021,28,7/1/2021,7/1/2021,1/1/2021,142481095,pro,year,pro year,1080,76.25,MXN,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,54
+7/31/2020,30,7/1/2020,7/1/2020,1/1/2020,120575628,pro,year,pro year,714,97.97,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,78.54
+3/5/2021,9,3/1/2021,3/1/2021,1/1/2021,135137630,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/2/2021,18,5/1/2021,5/1/2021,1/1/2021,137159391,pro,year,pro year,69,118.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,95.22
+12/6/2021,49,12/1/2021,12/1/2021,1/1/2021,144780807,pro,month,pro month,11.58,34.58,USD,US,North America,United States,NA,US,NA,Northern America,11.58
+8/14/2020,32,8/1/2020,8/1/2020,1/1/2020,119627438,pro,year,pro year,69,111.55,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,88.32
+4/17/2020,15,4/1/2020,4/1/2020,1/1/2020,27590134,pro,year,pro year,69,96.3,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,73.14
+9/9/2020,36,9/1/2020,9/1/2020,1/1/2020,122753101,pro,year,pro year,101,94.32,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,71.71
+12/6/2021,49,12/1/2021,12/1/2021,1/1/2021,123676732,pro,month,pro month,1200,33.4,AUD,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,840
+10/21/2020,42,10/1/2020,10/1/2020,1/1/2020,23154626,pro,year,pro year,69,102.45,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,79.35
+4/23/2020,16,4/1/2020,4/1/2020,1/1/2020,110658354,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/13/2021,50,12/1/2021,12/1/2021,1/1/2021,157634871,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/13/2020,2,1/1/2020,1/1/2020,1/1/2020,107480882,pro,year,pro year,84,107,USD,HK,Asia,Hong Kong,AS,HK,APAC,Eastern Asia,84
+5/5/2020,18,5/1/2020,5/1/2020,1/1/2020,114764831,pro,year,pro year,101,94.23,CAD,CA,North America,Canada,NA,CA,NA,Northern America,71.71
+4/29/2021,17,4/1/2021,4/1/2021,1/1/2021,139015045,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/5/2020,18,5/1/2020,5/1/2020,1/1/2020,111927877,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/9/2021,23,6/1/2021,6/1/2021,1/1/2021,139954743,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/14/2020,15,4/1/2020,4/1/2020,1/1/2020,109730494,pro,year,pro year,69,106.88,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,84.18
+12/9/2020,49,12/1/2020,12/1/2020,1/1/2020,123756846,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+5/3/2020,18,5/1/2020,5/1/2020,1/1/2020,111715668,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/29/2020,48,11/1/2020,11/1/2020,1/1/2020,34917049,pro,year,pro year,69,112.61,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,89.7
+8/18/2021,33,8/1/2021,8/1/2021,1/1/2021,145770180,pro,year,pro year,8400,98.37,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+8/20/2021,33,8/1/2021,8/1/2021,1/1/2021,148191807,pro,year,pro year,8400,98.37,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+7/23/2021,29,7/1/2021,7/1/2021,1/1/2021,100789048,pro,year,pro year,101,96.79,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,73.73
+3/30/2021,13,3/1/2021,3/1/2021,1/1/2021,98636259,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+7/24/2020,29,7/1/2020,7/1/2020,1/1/2020,120160805,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/18/2020,50,12/1/2020,12/1/2020,1/1/2020,129478786,pro,year,pro year,34.5,68.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,45.195
+11/4/2021,44,11/1/2021,11/1/2021,1/1/2021,15566028,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/2/2021,35,9/1/2021,9/1/2021,1/1/2021,149248024,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+1/7/2020,1,1/1/2020,1/1/2020,1/1/2020,106449159,pro,month,pro month,35,31.9,PLN,PL,Europe,Poland,EU,PL,EMEA,Eastern Europe,8.75
+7/22/2021,29,7/1/2021,7/1/2021,1/1/2021,141346066,business,year,business year,599,622,USD,CO,South America,Colombia,SA,CO,LATAM,Latin America and the Caribbean,599
+3/3/2021,9,3/1/2021,3/1/2021,1/1/2021,134020131,pro,year,pro year,80182,93.64,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+12/25/2021,51,12/1/2021,12/1/2021,1/1/2021,158872140,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/30/2021,30,7/1/2021,7/1/2021,1/1/2021,144220624,pro,year,pro year,101,96.79,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,73.73
+9/11/2020,36,9/1/2020,9/1/2020,1/1/2020,121254886,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/8/2020,18,5/1/2020,5/1/2020,1/1/2020,112255817,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/10/2020,23,6/1/2020,6/1/2020,1/1/2020,13979038,pro,year,pro year,69,99.25,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,76.59
+9/15/2021,37,9/1/2021,9/1/2021,1/1/2021,96439939,pro,year,pro year,5700,99.76,RUB,RU,Europe,Russian Federation,EU,RU,APAC,Eastern Europe,57
+11/26/2020,47,11/1/2020,11/1/2020,1/1/2020,90080536,pro,month,pro month,11.67,34.67,USD,US,North America,United States,NA,US,NA,Northern America,11.67
+11/16/2020,46,11/1/2020,11/1/2020,1/1/2020,125283680,pro,year,pro year,69,103.17,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,80.04
+10/13/2020,41,10/1/2020,10/1/2020,1/1/2020,123162328,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/5/2021,44,11/1/2021,11/1/2021,1/1/2021,103658296,pro,year,pro year,69,100.34,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,77.28
+11/16/2020,46,11/1/2020,11/1/2020,1/1/2020,45495633,pro,month,pro month,10,35.99,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,13
+10/31/2021,44,10/1/2021,10/1/2021,1/1/2021,153299504,pro,month,pro month,22,29.75,ILS,IL,Asia,Israel,AS,IL,EMEA,Western Asia,6.82
+2/16/2021,7,2/1/2021,2/1/2021,1/1/2021,133845524,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+12/14/2021,50,12/1/2021,12/1/2021,1/1/2021,157283825,pro,year,pro year,101,93.83,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,70.7
+3/30/2021,13,3/1/2021,3/1/2021,1/1/2021,136736326,pro,month,pro month,6.99,31.24,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,8.2482
+10/21/2020,42,10/1/2020,10/1/2020,1/1/2020,105872523,pro,year,pro year,75.6,98.6,USD,US,North America,United States,NA,US,NA,Northern America,75.6
+7/29/2020,30,7/1/2020,7/1/2020,1/1/2020,118644936,pro,year,pro year,1080,70.62,MXN,US,North America,United States,NA,US,NA,Northern America,43.2
+7/16/2021,28,7/1/2021,7/1/2021,1/1/2021,145469400,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+3/30/2021,13,3/1/2021,3/1/2021,1/1/2021,18937373,pro,year,pro year,69,117.48,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,94.53
+3/23/2020,12,3/1/2020,3/1/2020,1/1/2020,108895641,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/23/2021,42,10/1/2021,10/1/2021,1/1/2021,88381253,pro,year,pro year,69,102.1,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,79.35
+11/2/2021,44,11/1/2021,11/1/2021,1/1/2021,156387386,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+12/31/2021,52,12/1/2021,12/1/2021,1/1/2021,159350995,pro,year,pro year,69,113.12,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,90.39
+6/22/2020,25,6/1/2020,6/1/2020,1/1/2020,116249735,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/30/2020,17,4/1/2020,4/1/2020,1/1/2020,113429346,pro,year,pro year,69,96.3,EUR,MT,Europe,Malta,EU,MT,EMEA,Southern Europe,73.14
+6/19/2021,24,6/1/2021,6/1/2021,1/1/2021,9542468,pro,year,pro year,84,107,USD,FR,Europe,France,EU,FR,EMEA,Western Europe,84
+5/11/2020,19,5/1/2020,5/1/2020,1/1/2020,115256667,pro,year,pro year,85.85,83.55,CAD,CA,North America,Canada,NA,CA,NA,Northern America,60.9535
+7/14/2020,28,7/1/2020,7/1/2020,1/1/2020,96694381,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+10/22/2020,42,10/1/2020,10/1/2020,1/1/2020,125617090,pro,month,pro month,25,26.12,TRY,TR,Asia,Turkey,AS,TR,EMEA,Western Asia,3
+9/3/2021,35,9/1/2021,9/1/2021,1/1/2021,147019975,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/1/2021,17,5/1/2021,5/1/2021,1/1/2021,111379049,pro,month,pro month,159,30.83,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,7.95
+8/16/2020,33,8/1/2020,8/1/2020,1/1/2020,119788765,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/14/2021,32,8/1/2021,8/1/2021,1/1/2021,83141791,business,year,business year,509.15,532.15,USD,US,North America,United States,NA,US,NA,Northern America,509.15
+12/2/2021,48,12/1/2021,12/1/2021,1/1/2021,156451206,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/3/2021,31,8/1/2021,8/1/2021,1/1/2021,144615120,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/24/2021,38,9/1/2021,9/1/2021,1/1/2021,152172723,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+10/2/2020,39,10/1/2020,10/1/2020,1/1/2020,122130880,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/23/2020,16,4/1/2020,4/1/2020,1/1/2020,110619490,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/19/2021,38,9/1/2021,9/1/2021,1/1/2021,145463141,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/8/2021,32,8/1/2021,8/1/2021,1/1/2021,142185620,business,year,business year,599,622,USD,IN,Asia,India,AS,IN,APAC,Southern Asia,599
+12/23/2020,51,12/1/2020,12/1/2020,1/1/2020,125991514,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+3/1/2021,9,3/1/2021,3/1/2021,1/1/2021,132137986,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+10/13/2020,41,10/1/2020,10/1/2020,1/1/2020,121095952,pro,month,pro month,13,32.69,CAD,CA,North America,Canada,NA,CA,NA,Northern America,9.75
+11/24/2021,47,11/1/2021,11/1/2021,1/1/2021,155646257,pro,year,pro year,84,107,USD,CN,Asia,China,AS,CN,APAC,Eastern Asia,84
+9/1/2020,35,9/1/2020,9/1/2020,1/1/2020,122410926,enterprise,year,enterprise year,900,923,USD,US,North America,United States,NA,US,NA,Northern America,900
+7/7/2020,27,7/1/2020,7/1/2020,1/1/2020,47948070,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+10/17/2020,41,10/1/2020,10/1/2020,1/1/2020,123393132,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/7/2021,27,7/1/2021,7/1/2021,1/1/2021,142280708,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+7/15/2020,28,7/1/2020,7/1/2020,1/1/2020,115976923,pro,year,pro year,84,107,USD,CL,South America,Chile,SA,CL,LATAM,Latin America and the Caribbean,84
+5/11/2020,19,5/1/2020,5/1/2020,1/1/2020,25653843,pro,year,pro year,69,97.03,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,73.83
+8/20/2021,33,8/1/2021,8/1/2021,1/1/2021,148180429,pro,month,pro month,9500,31.14,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+5/11/2021,19,5/1/2021,5/1/2021,1/1/2021,137712120,pro,year,pro year,69,118.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,95.22
+6/12/2020,23,6/1/2020,6/1/2020,1/1/2020,72295467,pro,month,pro month,11.58,34.58,USD,CA,North America,Canada,NA,CA,NA,Northern America,11.58
+11/21/2020,46,11/1/2020,11/1/2020,1/1/2020,118333934,pro,year,pro year,69,112.61,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,89.7
+12/9/2020,49,12/1/2020,12/1/2020,1/1/2020,114019186,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+1/6/2021,1,1/1/2021,1/1/2021,1/1/2021,130209412,pro,year,pro year,83.56,106.56,USD,SE,Europe,Sweden,EU,SE,EMEA,Northern Europe,83.56
+2/3/2021,5,2/1/2021,2/1/2021,1/1/2021,132781309,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+2/3/2020,5,2/1/2020,2/1/2020,1/1/2020,49513797,pro,year,pro year,69,97.33,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,74.52
+6/22/2020,25,6/1/2020,6/1/2020,1/1/2020,72178144,enterprise,year,enterprise year,900,923,USD,US,North America,United States,NA,US,NA,Northern America,900
+4/3/2021,13,4/1/2021,4/1/2021,1/1/2021,137117182,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+4/14/2020,15,4/1/2020,4/1/2020,1/1/2020,112802367,pro,year,pro year,69,96.3,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,73.14
+11/4/2021,44,11/1/2021,11/1/2021,1/1/2021,153410429,pro,year,pro year,8400,95.54,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+12/22/2021,51,12/1/2021,12/1/2021,1/1/2021,161375670,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+4/29/2020,17,4/1/2020,4/1/2020,1/1/2020,18598642,pro,year,pro year,8400,99.68,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+11/11/2020,45,11/1/2020,11/1/2020,1/1/2020,83709148,pro,year,pro year,69,103.17,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,80.04
+10/30/2020,43,10/1/2020,10/1/2020,1/1/2020,14082923,pro,month,pro month,13,32.69,CAD,CA,North America,Canada,NA,CA,NA,Northern America,9.75
+2/24/2020,8,2/1/2020,2/1/2020,1/1/2020,108936848,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+1/27/2021,4,1/1/2021,1/1/2021,1/1/2021,132228435,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/4/2020,26,7/1/2020,7/1/2020,1/1/2020,115155214,pro,year,pro year,69,100.71,EUR,SK,Europe,Slovakia,EU,SK,EMEA,Eastern Europe,77.97
+6/8/2021,23,6/1/2021,6/1/2021,1/1/2021,138420216,pro,year,pro year,69,105.23,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,82.11
+12/27/2020,52,12/1/2020,12/1/2020,1/1/2020,75602968,pro,year,pro year,69,105.21,EUR,BE,Europe,Belgium,EU,BE,EMEA,Western Europe,82.11
+5/1/2020,17,5/1/2020,5/1/2020,1/1/2020,110798736,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/8/2020,36,9/1/2020,9/1/2020,1/1/2020,122824375,pro,month,pro month,10,34.64,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,11.6
+6/5/2021,22,6/1/2021,6/1/2021,1/1/2021,91686111,pro,year,pro year,69,118.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,95.22
+5/25/2020,21,5/1/2020,5/1/2020,1/1/2020,116367239,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+3/25/2020,12,3/1/2020,3/1/2020,1/1/2020,110727084,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/11/2021,36,9/1/2021,9/1/2021,1/1/2021,150633806,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+2/4/2021,5,2/1/2021,2/1/2021,1/1/2021,132886929,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+1/14/2020,2,1/1/2020,1/1/2020,1/1/2020,107498942,enterprise,year,enterprise year,900,923,USD,US,North America,United States,NA,US,NA,Northern America,900
+4/21/2020,16,4/1/2020,4/1/2020,1/1/2020,60609793,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/24/2020,34,8/1/2020,8/1/2020,1/1/2020,120237401,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/6/2021,27,7/1/2021,7/1/2021,1/1/2021,144535565,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+2/13/2021,6,2/1/2021,2/1/2021,1/1/2021,23676704,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/19/2020,50,12/1/2020,12/1/2020,1/1/2020,123475366,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+2/16/2021,7,2/1/2021,2/1/2021,1/1/2021,116066232,business,year,business year,479,594.64,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,570.01
+5/28/2020,21,5/1/2020,5/1/2020,1/1/2020,107715081,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/19/2020,16,4/1/2020,4/1/2020,1/1/2020,110152393,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/17/2021,24,6/1/2021,6/1/2021,1/1/2021,138644562,business,year,business year,479,593.83,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,570.01
+9/21/2020,38,9/1/2020,9/1/2020,1/1/2020,123656537,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+12/17/2020,50,12/1/2020,12/1/2020,1/1/2020,125595653,pro,year,pro year,84,107,USD,PE,South America,Peru,SA,PE,LATAM,Latin America and the Caribbean,84
+2/11/2021,6,2/1/2021,2/1/2021,1/1/2021,130664063,pro,year,pro year,84,107,USD,VN,Asia,Viet Nam,AS,VN,APAC,South-eastern Asia,84
+12/1/2021,48,12/1/2021,12/1/2021,1/1/2021,156348770,pro,year,pro year,336,128.27,ILS,US,North America,United States,NA,US,NA,Northern America,104.16
+11/12/2021,45,11/1/2021,11/1/2021,1/1/2021,151490865,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/8/2020,18,5/1/2020,5/1/2020,1/1/2020,58612307,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/17/2021,42,10/1/2021,10/1/2021,1/1/2021,148188775,pro,year,pro year,101,96.2,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,72.72
+6/29/2020,26,6/1/2020,6/1/2020,1/1/2020,88957128,enterprise,year,enterprise year,NULL,NULL,USD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,NULL
+5/30/2021,22,5/1/2021,5/1/2021,1/1/2021,104330788,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/12/2020,41,10/1/2020,10/1/2020,1/1/2020,123106521,pro,year,pro year,84,107,USD,NZ,Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand,84
+6/8/2020,23,6/1/2020,6/1/2020,1/1/2020,116909946,pro,month,pro month,11.54,34.54,USD,US,North America,United States,NA,US,NA,Northern America,11.54
+10/2/2020,39,10/1/2020,10/1/2020,1/1/2020,123908006,pro,year,pro year,575.2,86.86,SEK,SE,Europe,Sweden,EU,SE,EMEA,Northern Europe,63.272
+2/14/2021,7,2/1/2021,2/1/2021,1/1/2021,10952238,pro,month,pro month,25,26.46,TRY,TR,Asia,Turkey,AS,TR,EMEA,Western Asia,3.5
+6/17/2021,24,6/1/2021,6/1/2021,1/1/2021,140498412,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/15/2020,19,5/1/2020,5/1/2020,1/1/2020,82300135,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/12/2021,2,1/1/2021,1/1/2021,1/1/2021,92138810,pro,year,pro year,83.89,106.89,USD,US,North America,United States,NA,US,NA,Northern America,83.89
+5/18/2020,20,5/1/2020,5/1/2020,1/1/2020,95890064,pro,year,pro year,84,107,USD,IN,Asia,India,AS,IN,APAC,Southern Asia,84
+9/13/2020,37,9/1/2020,9/1/2020,1/1/2020,103276767,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/11/2020,45,11/1/2020,11/1/2020,1/1/2020,126900278,pro,year,pro year,69,103.17,EUR,SI,Europe,Slovenia,EU,SI,EMEA,Southern Europe,80.04
+4/21/2020,16,4/1/2020,4/1/2020,1/1/2020,110429635,pro,year,pro year,69,96.3,EUR,GR,Europe,Greece,EU,GR,EMEA,Southern Europe,73.14
+3/12/2021,10,3/1/2021,3/1/2021,1/1/2021,135597067,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+7/14/2020,28,7/1/2020,7/1/2020,1/1/2020,117735467,pro,year,pro year,69,108.83,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,85.56
+11/9/2020,45,11/1/2020,11/1/2020,1/1/2020,113556508,pro,month,pro month,35,32.02,PLN,PL,Europe,Poland,EU,PL,EMEA,Eastern Europe,9.1
+8/14/2020,32,8/1/2020,8/1/2020,1/1/2020,118996246,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+12/8/2021,49,12/1/2021,12/1/2021,1/1/2021,159981092,pro,year,pro year,101,93.83,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,70.7
+5/14/2020,19,5/1/2020,5/1/2020,1/1/2020,112769455,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/10/2021,23,6/1/2021,6/1/2021,1/1/2021,136336538,pro,year,pro year,69,105.23,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,82.11
+12/23/2021,51,12/1/2021,12/1/2021,1/1/2021,56042140,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/19/2021,42,10/1/2021,10/1/2021,1/1/2021,37242811,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/2/2021,44,11/1/2021,11/1/2021,1/1/2021,115940426,pro,month,pro month,10,36.28,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,13.3
+6/11/2021,23,6/1/2021,6/1/2021,1/1/2021,139956154,pro,year,pro year,69,105.23,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,82.11
+6/13/2020,23,6/1/2020,6/1/2020,1/1/2020,115881873,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+12/20/2020,51,12/1/2020,12/1/2020,1/1/2020,129614460,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+11/14/2020,45,11/1/2020,11/1/2020,1/1/2020,125155256,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/22/2021,29,7/1/2021,7/1/2021,1/1/2021,143582868,pro,year,pro year,84,107,USD,NZ,Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand,84
+2/6/2021,5,2/1/2021,2/1/2021,1/1/2021,130758902,pro,year,pro year,101,101.29,CAD,CA,North America,Canada,NA,CA,NA,Northern America,78.78
+12/25/2020,51,12/1/2020,12/1/2020,1/1/2020,41792018,pro,year,pro year,101,100.37,CAD,CA,North America,Canada,NA,CA,NA,Northern America,77.77
+3/18/2020,11,3/1/2020,3/1/2020,1/1/2020,109959614,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/26/2020,21,5/1/2020,5/1/2020,1/1/2020,114875045,business,year,business year,479,536.88,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,512.53
+7/22/2021,29,7/1/2021,7/1/2021,1/1/2021,141367967,business,year,business year,599,622,USD,TZ,Africa,"Tanzania, United Republic of",AF,TZ,EMEA,Sub-Saharan Africa,599
+5/28/2020,21,5/1/2020,5/1/2020,1/1/2020,9903621,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/25/2021,21,5/1/2021,5/1/2021,1/1/2021,138819133,pro,year,pro year,1080,76.22,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,54
+4/18/2020,15,4/1/2020,4/1/2020,1/1/2020,109983647,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/12/2021,19,5/1/2021,5/1/2021,1/1/2021,139959987,pro,month,pro month,12,35,USD,NZ,Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand,12
+9/11/2020,36,9/1/2020,9/1/2020,1/1/2020,122991677,pro,month,pro month,12,35,USD,CO,South America,Colombia,SA,CO,LATAM,Latin America and the Caribbean,12
+6/29/2021,26,6/1/2021,6/1/2021,1/1/2021,90715698,pro,year,pro year,69,105.23,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,82.11
+1/19/2021,3,1/1/2021,1/1/2021,1/1/2021,131578004,pro,year,pro year,714,105.38,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,85.68
+2/20/2020,7,2/1/2020,2/1/2020,1/1/2020,101804467,pro,month,pro month,12,35,USD,CO,South America,Colombia,SA,CO,LATAM,Latin America and the Caribbean,12
+7/3/2020,26,7/1/2020,7/1/2020,1/1/2020,117024190,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/16/2020,50,12/1/2020,12/1/2020,1/1/2020,48134864,pro,year,pro year,69,113.51,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,90.39
+6/12/2021,23,6/1/2021,6/1/2021,1/1/2021,140175920,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/10/2021,23,6/1/2021,6/1/2021,1/1/2021,92931852,pro,month,pro month,11.87,34.87,USD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,11.87
+5/15/2021,19,5/1/2021,5/1/2021,1/1/2021,111206235,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+5/4/2020,18,5/1/2020,5/1/2020,1/1/2020,105407210,pro,month,pro month,680,32.17,RUB,RU,Europe,Russian Federation,EU,RU,APAC,Eastern Europe,6.8
+7/22/2021,29,7/1/2021,7/1/2021,1/1/2021,109928568,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+5/17/2021,20,5/1/2021,5/1/2021,1/1/2021,140454097,business,year,business year,7899,412.23,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,394.95
+5/13/2021,19,5/1/2021,5/1/2021,1/1/2021,139448287,pro,month,pro month,10,34.92,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,11.9
+12/15/2020,50,12/1/2020,12/1/2020,1/1/2020,127174803,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/6/2021,18,5/1/2021,5/1/2021,1/1/2021,137396068,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/8/2020,49,12/1/2020,12/1/2020,1/1/2020,124319264,pro,month,pro month,12,35,USD,HU,Europe,Hungary,EU,HU,EMEA,Eastern Europe,12
+6/20/2021,25,6/1/2021,6/1/2021,1/1/2021,143263870,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+10/7/2020,40,10/1/2020,10/1/2020,1/1/2020,122526591,business,year,business year,749,563.99,SGD,SG,Asia,Singapore,AS,SG,APAC,South-eastern Asia,539.28
+7/14/2021,28,7/1/2021,7/1/2021,1/1/2021,145267120,pro,year,pro year,101,96.79,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,73.73
+11/5/2021,44,11/1/2021,11/1/2021,1/1/2021,143761170,pro,year,pro year,69,100.34,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,77.28
+8/25/2021,34,8/1/2021,8/1/2021,1/1/2021,113848745,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+2/9/2020,6,2/1/2020,2/1/2020,1/1/2020,104937685,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/20/2021,20,5/1/2021,5/1/2021,1/1/2021,140686852,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+6/11/2021,23,6/1/2021,6/1/2021,1/1/2021,85701997,pro,year,pro year,69,118.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,95.22
+3/30/2020,13,3/1/2020,3/1/2020,1/1/2020,110467388,pro,year,pro year,79.61,102.61,USD,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,79.61
+3/19/2021,11,3/1/2021,3/1/2021,1/1/2021,106443332,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/11/2021,15,4/1/2021,4/1/2021,1/1/2021,134616254,pro,year,pro year,69,103.17,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,80.04
+10/8/2021,40,10/1/2021,10/1/2021,1/1/2021,147755057,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/13/2021,2,1/1/2021,1/1/2021,1/1/2021,129226122,pro,year,pro year,69,115.45,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,92.46
+7/24/2021,29,7/1/2021,7/1/2021,1/1/2021,146040864,pro,year,pro year,101,96.79,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,73.73
+1/22/2021,3,1/1/2021,1/1/2021,1/1/2021,91553944,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/8/2020,31,8/1/2020,8/1/2020,1/1/2020,121039221,pro,month,pro month,680,32.05,RUB,RU,Europe,Russian Federation,EU,RU,APAC,Eastern Europe,6.8
+5/8/2021,18,5/1/2021,5/1/2021,1/1/2021,139746186,enterprise,year,enterprise year,1140,892.16,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,866.4
+6/4/2020,22,6/1/2020,6/1/2020,1/1/2020,115108715,pro,month,pro month,12,35,USD,CL,South America,Chile,SA,CL,LATAM,Latin America and the Caribbean,12
+7/9/2020,27,7/1/2020,7/1/2020,1/1/2020,117410602,pro,year,pro year,69,108.83,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,85.56
+4/5/2021,14,4/1/2021,4/1/2021,1/1/2021,104356139,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/13/2021,32,8/1/2021,8/1/2021,1/1/2021,147610107,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+12/4/2020,48,12/1/2020,12/1/2020,1/1/2020,126423668,business,year,business year,599,622,USD,PE,South America,Peru,SA,PE,LATAM,Latin America and the Caribbean,599
+9/5/2021,36,9/1/2021,9/1/2021,1/1/2021,147146927,pro,year,pro year,69,102.83,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,80.04
+5/24/2020,21,5/1/2020,5/1/2020,1/1/2020,115726353,pro,month,pro month,11.45,34.45,USD,US,North America,United States,NA,US,NA,Northern America,11.45
+7/5/2021,27,7/1/2021,7/1/2021,1/1/2021,143899486,pro,month,pro month,8.39,32.75,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,9.7324
+1/29/2021,4,1/1/2021,1/1/2021,1/1/2021,131850188,pro,month,pro month,11.77,34.77,USD,DE,Europe,Germany,EU,DE,EMEA,Western Europe,11.77
+5/6/2021,18,5/1/2021,5/1/2021,1/1/2021,139018794,pro,month,pro month,11.79,34.79,USD,US,North America,United States,NA,US,NA,Northern America,11.79
+4/3/2020,13,4/1/2020,4/1/2020,1/1/2020,111690800,pro,month,pro month,12,35,USD,MY,Asia,Malaysia,AS,MY,APAC,South-eastern Asia,12
+7/30/2021,30,7/1/2021,7/1/2021,1/1/2021,143945987,pro,year,pro year,69,116.53,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.84
+12/1/2020,48,12/1/2020,12/1/2020,1/1/2020,128258836,enterprise,year,enterprise year,840,1023.82,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,999.6
+11/4/2021,44,11/1/2021,11/1/2021,1/1/2021,156601639,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/1/2020,13,4/1/2020,4/1/2020,1/1/2020,109359620,pro,year,pro year,69,96.3,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,73.14
+4/23/2021,16,4/1/2021,4/1/2021,1/1/2021,136489515,pro,year,pro year,69,103.17,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,80.04
+3/27/2020,12,3/1/2020,3/1/2020,1/1/2020,36176119,pro,year,pro year,84,107,USD,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,84
+7/15/2020,28,7/1/2020,7/1/2020,1/1/2020,115969066,pro,year,pro year,1080,70.62,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,43.2
+4/1/2021,13,4/1/2021,4/1/2021,1/1/2021,132727927,pro,year,pro year,6720,83.4,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,67.2
+9/25/2020,38,9/1/2020,9/1/2020,1/1/2020,122064039,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+5/27/2021,21,5/1/2021,5/1/2021,1/1/2021,141205233,pro,month,pro month,5042,29.88,CLP,CL,South America,Chile,SA,CL,LATAM,Latin America and the Caribbean,0
+10/12/2021,41,10/1/2021,10/1/2021,1/1/2021,154096172,pro,year,pro year,84,107,USD,HU,Europe,Hungary,EU,HU,EMEA,Eastern Europe,84
+3/5/2020,9,3/1/2020,3/1/2020,1/1/2020,109322750,pro,year,pro year,84,107,USD,CZ,Europe,Czech Republic,EU,CZ,EMEA,Eastern Europe,84
+6/30/2020,26,6/1/2020,6/1/2020,1/1/2020,116836494,pro,year,pro year,69,107.49,GBP,US,North America,United States,NA,US,NA,Northern America,84.18
+4/29/2021,17,4/1/2021,4/1/2021,1/1/2021,56009423,pro,year,pro year,82.4,105.4,USD,SG,Asia,Singapore,AS,SG,APAC,South-eastern Asia,82.4
+11/5/2021,44,11/1/2021,11/1/2021,1/1/2021,153584730,pro,year,pro year,69,114.62,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,91.77
+9/10/2020,36,9/1/2020,9/1/2020,1/1/2020,5790415,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/29/2020,30,7/1/2020,7/1/2020,1/1/2020,120329408,pro,year,pro year,84,107,USD,HU,Europe,Hungary,EU,HU,EMEA,Eastern Europe,84
+6/14/2021,24,6/1/2021,6/1/2021,1/1/2021,142852182,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+5/7/2020,18,5/1/2020,5/1/2020,1/1/2020,114919449,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+7/2/2020,26,7/1/2020,7/1/2020,1/1/2020,116474578,business,year,business year,539.1,562.1,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,539.1
+10/6/2021,40,10/1/2021,10/1/2021,1/1/2021,153408631,pro,year,pro year,69,102.1,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,79.35
+11/24/2020,47,11/1/2020,11/1/2020,1/1/2020,127862917,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+4/10/2020,14,4/1/2020,4/1/2020,1/1/2020,112410368,enterprise,month,enterprise month,NULL,NULL,USD,US,North America,United States,NA,US,NA,Northern America,NULL
+10/11/2020,41,10/1/2020,10/1/2020,1/1/2020,124819396,pro,year,pro year,84,107,USD,PE,South America,Peru,SA,PE,LATAM,Latin America and the Caribbean,84
+4/8/2021,14,4/1/2021,4/1/2021,1/1/2021,135484153,pro,year,pro year,8400,98.49,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+7/3/2021,26,7/1/2021,7/1/2021,1/1/2021,63520790,pro,year,pro year,101,96.79,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,73.73
+10/23/2021,42,10/1/2021,10/1/2021,1/1/2021,155373229,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+5/14/2021,19,5/1/2021,5/1/2021,1/1/2021,140169043,pro,month,pro month,119.83,28.9,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,5.9915
+7/27/2020,30,7/1/2020,7/1/2020,1/1/2020,118533116,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/7/2020,9,3/1/2020,3/1/2020,1/1/2020,108351860,pro,year,pro year,88200,95.38,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+2/10/2020,6,2/1/2020,2/1/2020,1/1/2020,108503104,pro,year,pro year,101,89.02,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,65.65
+12/17/2020,50,12/1/2020,12/1/2020,1/1/2020,127330185,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/9/2020,40,10/1/2020,10/1/2020,1/1/2020,109086792,pro,year,pro year,84,107,USD,GE,Asia,Georgia,AS,GE,EMEA,Western Asia,84
+12/23/2021,51,12/1/2021,12/1/2021,1/1/2021,19336354,pro,year,pro year,8400,95.79,JPY,jp,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+5/4/2020,18,5/1/2020,5/1/2020,1/1/2020,114666789,pro,year,pro year,84,107,USD,AR,South America,Argentina,SA,AR,LATAM,Latin America and the Caribbean,84
+7/1/2021,26,7/1/2021,7/1/2021,1/1/2021,141637292,pro,year,pro year,269,91.7,PLN,PL,Europe,Poland,EU,PL,EMEA,Eastern Europe,69.94
+3/2/2021,9,3/1/2021,3/1/2021,1/1/2021,134499275,pro,year,pro year,69,117.48,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,94.53
+9/16/2021,37,9/1/2021,9/1/2021,1/1/2021,148047079,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/9/2021,14,4/1/2021,4/1/2021,1/1/2021,10574962,pro,year,pro year,714,104.84,SEK,SE,Europe,Sweden,EU,SE,EMEA,Northern Europe,78.54
+1/13/2021,2,1/1/2021,1/1/2021,1/1/2021,4730822,pro,year,pro year,336,125.22,ILS,IL,Asia,Israel,AS,IL,EMEA,Western Asia,100.8
+3/20/2021,11,3/1/2021,3/1/2021,1/1/2021,134067365,pro,year,pro year,84,107,USD,CL,South America,Chile,SA,CL,LATAM,Latin America and the Caribbean,84
+11/29/2021,48,11/1/2021,11/1/2021,1/1/2021,159097009,pro,year,pro year,63,86,USD,US,North America,United States,NA,US,NA,Northern America,63
+4/24/2021,16,4/1/2021,4/1/2021,1/1/2021,138412832,pro,month,pro month,10,34.62,EUR,LU,Europe,Luxembourg,EU,LU,EMEA,Western Europe,11.6
+1/27/2020,4,1/1/2020,1/1/2020,1/1/2020,2769713,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/20/2021,16,4/1/2021,4/1/2021,1/1/2021,138344818,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+5/6/2021,18,5/1/2021,5/1/2021,1/1/2021,55416704,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/14/2020,19,5/1/2020,5/1/2020,1/1/2020,89370816,enterprise,year,enterprise year,840,1041.93,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,1016.4
+4/5/2020,14,4/1/2020,4/1/2020,1/1/2020,5555022,enterprise,year,enterprise year,765,788,USD,US,North America,United States,NA,US,NA,Northern America,765
+12/27/2020,52,12/1/2020,12/1/2020,1/1/2020,129661780,pro,month,pro month,11.99,38.73,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,15.7069
+6/22/2021,25,6/1/2021,6/1/2021,1/1/2021,140602623,pro,year,pro year,69,105.23,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,82.11
+7/30/2021,30,7/1/2021,7/1/2021,1/1/2021,144314645,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/17/2021,46,11/1/2021,11/1/2021,1/1/2021,157965226,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+9/28/2020,39,9/1/2020,9/1/2020,1/1/2020,122829358,pro,year,pro year,5130,89.49,RUB,RU,Europe,Russian Federation,EU,RU,APAC,Eastern Europe,51.3
+11/9/2020,45,11/1/2020,11/1/2020,1/1/2020,80066650,pro,month,pro month,12,31.56,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,8.52
+5/28/2020,21,5/1/2020,5/1/2020,1/1/2020,84347680,pro,month,pro month,11,34.2,CHF,CH,Europe,Switzerland,EU,CH,EMEA,Western Europe,11.22
+7/4/2021,27,7/1/2021,7/1/2021,1/1/2021,112753493,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+8/30/2021,35,8/1/2021,8/1/2021,1/1/2021,146685585,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/7/2020,14,4/1/2020,4/1/2020,1/1/2020,112001449,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/9/2021,36,9/1/2021,9/1/2021,1/1/2021,147398173,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/29/2021,35,8/1/2021,8/1/2021,1/1/2021,144632283,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+5/25/2021,21,5/1/2021,5/1/2021,1/1/2021,138788488,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/28/2020,21,5/1/2020,5/1/2020,1/1/2020,115860288,pro,year,pro year,84,107,USD,HR,Europe,Croatia,EU,HR,EMEA,Southern Europe,84
+7/7/2020,27,7/1/2020,7/1/2020,1/1/2020,103219301,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/17/2020,33,8/1/2020,8/1/2020,1/1/2020,121550591,pro,year,pro year,69,102.56,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,79.35
+6/15/2021,24,6/1/2021,6/1/2021,1/1/2021,56962071,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+1/25/2021,4,1/1/2021,1/1/2021,1/1/2021,132053243,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/19/2020,29,7/1/2020,7/1/2020,1/1/2020,119878948,business,year,business year,599,622,USD,MY,Asia,Malaysia,AS,MY,APAC,South-eastern Asia,599
+7/20/2020,29,7/1/2020,7/1/2020,1/1/2020,118087028,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/15/2020,28,7/1/2020,7/1/2020,1/1/2020,117786339,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/5/2020,44,11/1/2020,11/1/2020,1/1/2020,124580519,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/18/2021,24,6/1/2021,6/1/2021,1/1/2021,138722551,pro,year,pro year,714,107.43,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,85.68
+7/10/2021,27,7/1/2021,7/1/2021,1/1/2021,104771476,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+10/16/2020,41,10/1/2020,10/1/2020,1/1/2020,125206935,pro,year,pro year,69,110.87,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,87.63
+7/20/2020,29,7/1/2020,7/1/2020,1/1/2020,118114548,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/24/2021,38,9/1/2021,9/1/2021,1/1/2021,35278746,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/1/2021,48,12/1/2021,12/1/2021,1/1/2021,158664881,pro,month,pro month,6.99,32.13,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,9.1569
+10/16/2020,41,10/1/2020,10/1/2020,1/1/2020,105741394,pro,year,pro year,600,116.62,DKK,DK,Europe,Denmark,EU,DK,EMEA,Northern Europe,96
+8/9/2021,32,8/1/2021,8/1/2021,1/1/2021,147266066,pro,year,pro year,101,95.54,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,72.72
+4/26/2020,17,4/1/2020,4/1/2020,1/1/2020,69643078,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/28/2021,26,6/1/2021,6/1/2021,1/1/2021,141503982,business,year,business year,649,517.81,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,493.24
+3/24/2020,12,3/1/2020,3/1/2020,1/1/2020,81973924,pro,month,pro month,11.44,34.44,USD,US,North America,United States,NA,US,NA,Northern America,11.44
+3/18/2020,11,3/1/2020,3/1/2020,1/1/2020,105674784,pro,year,pro year,85.85,74.42,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,51.51
+12/8/2021,49,12/1/2021,12/1/2021,1/1/2021,160009400,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+3/19/2020,11,3/1/2020,3/1/2020,1/1/2020,110057198,enterprise,year,enterprise year,3360,934.69,ILS,IL,Asia,Israel,AS,IL,EMEA,Western Asia,907.2
+8/27/2021,34,8/1/2021,8/1/2021,1/1/2021,91158858,pro,year,pro year,88200,98.62,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+1/4/2021,1,1/1/2021,1/1/2021,1/1/2021,127552578,pro,year,pro year,69,105.44,EUR,PT,Europe,Portugal,EU,PT,EMEA,Southern Europe,82.11
+3/31/2021,13,3/1/2021,3/1/2021,1/1/2021,134756654,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/23/2021,3,1/1/2021,1/1/2021,1/1/2021,128170548,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+12/10/2020,49,12/1/2020,12/1/2020,1/1/2020,126019538,pro,year,pro year,1080,76.14,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,54
+11/8/2020,45,11/1/2020,11/1/2020,1/1/2020,126682858,pro,year,pro year,69,103.17,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,80.04
+6/4/2021,22,6/1/2021,6/1/2021,1/1/2021,86659964,enterprise,year,enterprise year,900,923,USD,US,North America,United States,NA,US,NA,Northern America,900
+6/23/2021,25,6/1/2021,6/1/2021,1/1/2021,142494306,pro,year,pro year,101,104.66,CAD,CA,North America,Canada,NA,CA,NA,Northern America,81.81
+6/28/2020,26,6/1/2020,6/1/2020,1/1/2020,118574080,pro,year,pro year,69,99.25,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,76.59
+6/14/2020,24,6/1/2020,6/1/2020,1/1/2020,93485255,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+4/1/2021,13,4/1/2021,4/1/2021,1/1/2021,134892049,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/1/2021,39,10/1/2021,10/1/2021,1/1/2021,149625765,pro,year,pro year,714,105.58,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,85.68
+5/31/2021,22,5/1/2021,5/1/2021,1/1/2021,138995320,pro,year,pro year,69,105.23,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,82.11
+6/18/2020,24,6/1/2020,6/1/2020,1/1/2020,115878047,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/17/2020,2,1/1/2020,1/1/2020,1/1/2020,106509073,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/19/2020,46,11/1/2020,11/1/2020,1/1/2020,124879658,pro,year,pro year,82.24,105.24,USD,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,82.24
+5/8/2020,18,5/1/2020,5/1/2020,1/1/2020,114282920,business,year,business year,4999,506.55,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,499.9
+1/27/2020,4,1/1/2020,1/1/2020,1/1/2020,100421526,pro,year,pro year,69,98.21,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,75.21
+10/12/2020,41,10/1/2020,10/1/2020,1/1/2020,119264107,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/1/2021,17,5/1/2021,5/1/2021,1/1/2021,2471619,pro,year,pro year,84,107,USD,MZ,Africa,Mozambique,AF,MZ,EMEA,Sub-Saharan Africa,84
+12/17/2021,50,12/1/2021,12/1/2021,1/1/2021,158035249,pro,month,pro month,10,34.1,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,11.1
+4/27/2021,17,4/1/2021,4/1/2021,1/1/2021,138897961,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+7/20/2020,29,7/1/2020,7/1/2020,1/1/2020,109879061,pro,month,pro month,10,35.44,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,12.4
+3/6/2020,9,3/1/2020,3/1/2020,1/1/2020,104622000,pro,year,pro year,69,97.51,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,74.52
+2/26/2020,8,2/1/2020,2/1/2020,1/1/2020,109009563,pro,month,pro month,10,33.77,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,10.8
+10/11/2021,41,10/1/2021,10/1/2021,1/1/2021,124379565,pro,month,pro month,10,36.47,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,13.5
+5/17/2021,20,5/1/2021,5/1/2021,1/1/2021,140424978,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+6/5/2020,22,6/1/2020,6/1/2020,1/1/2020,112487847,pro,year,pro year,84,107,USD,KZ,Asia,Kazakhstan,AS,KZ,EMEA,Central Asia,84
+7/31/2020,30,7/1/2020,7/1/2020,1/1/2020,120606240,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/17/2021,37,9/1/2021,9/1/2021,1/1/2021,151343646,pro,month,pro month,12,35,USD,NG,Africa,Nigeria,AF,NG,EMEA,Sub-Saharan Africa,12
+3/4/2020,9,3/1/2020,3/1/2020,1/1/2020,62516793,pro,year,pro year,69,97.51,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,74.52
+6/28/2020,26,6/1/2020,6/1/2020,1/1/2020,118246786,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+3/28/2020,12,3/1/2020,3/1/2020,1/1/2020,67896022,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+7/14/2021,28,7/1/2021,7/1/2021,1/1/2021,141699817,business,year,business year,621999,563.83,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+7/17/2021,28,7/1/2021,7/1/2021,1/1/2021,133874507,pro,month,pro month,10,36.55,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,13.6
+11/10/2021,45,11/1/2021,11/1/2021,1/1/2021,157220502,enterprise,month,enterprise month,1800,108.14,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,90
+7/23/2020,29,7/1/2020,7/1/2020,1/1/2020,120049533,pro,year,pro year,69,100.71,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,77.97
+5/9/2020,18,5/1/2020,5/1/2020,1/1/2020,112340948,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/11/2020,49,12/1/2020,12/1/2020,1/1/2020,116920364,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/29/2020,30,7/1/2020,7/1/2020,1/1/2020,120469180,enterprise,year,enterprise year,900,923,USD,US,North America,United States,NA,US,NA,Northern America,900
+12/1/2020,48,12/1/2020,12/1/2020,1/1/2020,106037177,pro,year,pro year,88200,102.97,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+4/1/2021,13,4/1/2021,4/1/2021,1/1/2021,111317280,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/4/2020,35,9/1/2020,9/1/2020,1/1/2020,26570321,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/29/2020,43,10/1/2020,10/1/2020,1/1/2020,124178332,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/25/2021,30,7/1/2021,7/1/2021,1/1/2021,143788976,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/14/2021,7,2/1/2021,2/1/2021,1/1/2021,131346111,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/23/2020,34,8/1/2020,8/1/2020,1/1/2020,121908536,pro,year,pro year,101,94.01,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,70.7
+8/1/2020,30,8/1/2020,8/1/2020,1/1/2020,117302295,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/13/2021,28,7/1/2021,7/1/2021,1/1/2021,8442828,pro,month,pro month,35,31.94,PLN,PL,Europe,Poland,EU,PL,EMEA,Eastern Europe,9.1
+2/26/2021,8,2/1/2021,2/1/2021,1/1/2021,126452076,pro,year,pro year,8400,101.86,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+6/2/2020,22,6/1/2020,6/1/2020,1/1/2020,116969763,enterprise,year,enterprise year,765,788,USD,US,North America,United States,NA,US,NA,Northern America,765
+12/9/2021,49,12/1/2021,12/1/2021,1/1/2021,144565326,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/9/2020,23,6/1/2020,6/1/2020,1/1/2020,31155432,pro,year,pro year,77.8,100.8,USD,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,77.8
+11/10/2020,45,11/1/2020,11/1/2020,1/1/2020,120779108,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+4/16/2021,15,4/1/2021,4/1/2021,1/1/2021,136001462,pro,year,pro year,101,101.98,CAD,CA,North America,Canada,NA,CA,NA,Northern America,78.78
+4/1/2020,13,4/1/2020,4/1/2020,1/1/2020,111493081,pro,month,pro month,95,31.88,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,8.55
+5/1/2020,17,5/1/2020,5/1/2020,1/1/2020,111478562,pro,year,pro year,69,97.03,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,73.83
+10/27/2020,43,10/1/2020,10/1/2020,1/1/2020,124049120,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/18/2021,3,1/1/2021,1/1/2021,1/1/2021,125763742,pro,year,pro year,101,99.53,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,76.76
+8/5/2020,31,8/1/2020,8/1/2020,1/1/2020,120860957,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/2/2021,39,10/1/2021,10/1/2021,1/1/2021,146025914,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/1/2020,17,5/1/2020,5/1/2020,1/1/2020,109403374,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+6/20/2021,25,6/1/2021,6/1/2021,1/1/2021,15975007,pro,year,pro year,69,118.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,95.22
+10/8/2020,40,10/1/2020,10/1/2020,1/1/2020,122869507,pro,year,pro year,101,98.3,CAD,CA,North America,Canada,NA,CA,NA,Northern America,75.75
+3/24/2021,12,3/1/2021,3/1/2021,1/1/2021,123398064,pro,month,pro month,7.5,30.99,CHF,CH,Europe,Switzerland,EU,CH,EMEA,Western Europe,8.025
+8/17/2021,33,8/1/2021,8/1/2021,1/1/2021,145701335,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/25/2021,43,10/1/2021,10/1/2021,1/1/2021,152267867,enterprise,year,enterprise year,1140,923.81,CAD,CA,North America,Canada,NA,CA,NA,Northern America,900.6
+4/23/2021,16,4/1/2021,4/1/2021,1/1/2021,138603623,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/1/2021,9,3/1/2021,3/1/2021,1/1/2021,132439297,pro,year,pro year,69,104.37,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,81.42
+1/30/2021,4,1/1/2021,1/1/2021,1/1/2021,131905584,pro,month,pro month,11.99,37.33,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,14.2681
+7/13/2020,28,7/1/2020,7/1/2020,1/1/2020,113992955,pro,month,pro month,10,35.44,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,12.4
+5/16/2021,20,5/1/2021,5/1/2021,1/1/2021,138101214,pro,year,pro year,69,118.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,95.22
+6/24/2021,25,6/1/2021,6/1/2021,1/1/2021,125654865,pro,month,pro month,9.56,29.97,NZD,NZ,Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand,6.9788
+6/29/2020,26,6/1/2020,6/1/2020,1/1/2020,118619705,pro,year,pro year,69,99.25,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,76.59
+5/1/2020,17,5/1/2020,5/1/2020,1/1/2020,111493897,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/5/2021,31,8/1/2021,8/1/2021,1/1/2021,99088483,enterprise,year,enterprise year,900,923,USD,US,North America,United States,NA,US,NA,Northern America,900
+10/12/2020,41,10/1/2020,10/1/2020,1/1/2020,121641990,pro,year,pro year,95,91.62,SGD,US,North America,United States,NA,US,NA,Northern America,68.4
+3/12/2021,10,3/1/2021,3/1/2021,1/1/2021,133336664,pro,year,pro year,69,117.48,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,94.53
+10/13/2021,41,10/1/2021,10/1/2021,1/1/2021,73183348,pro,year,pro year,69,96.58,CHF,CH,Europe,Switzerland,EU,CH,EMEA,Western Europe,73.83
+12/28/2020,52,12/1/2020,12/1/2020,1/1/2020,129693529,pro,month,pro month,11.99,34.99,USD,KH,Asia,Cambodia,AS,KH,APAC,South-eastern Asia,11.99
+8/31/2020,35,8/1/2020,8/1/2020,1/1/2020,46405741,pro,month,pro month,11.47,34.47,USD,US,North America,United States,NA,US,NA,Northern America,11.47
+1/13/2020,2,1/1/2020,1/1/2020,1/1/2020,106338168,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/23/2021,34,8/1/2021,8/1/2021,1/1/2021,146120068,pro,year,pro year,69,116.79,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.84
+5/23/2021,21,5/1/2021,5/1/2021,1/1/2021,140747454,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+5/19/2021,20,5/1/2021,5/1/2021,1/1/2021,138292059,pro,year,pro year,101,104.66,CAD,US,North America,United States,NA,US,NA,Northern America,81.81
+2/4/2020,5,2/1/2020,2/1/2020,1/1/2020,107830556,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/15/2020,15,4/1/2020,4/1/2020,1/1/2020,112907367,business,year,business year,599,622,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,599
+1/25/2020,3,1/1/2020,1/1/2020,1/1/2020,106440883,pro,year,pro year,101,90.92,AUD,US,North America,United States,NA,US,NA,Northern America,67.67
+2/21/2021,8,2/1/2021,2/1/2021,1/1/2021,131860064,pro,year,pro year,69,105.34,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,82.11
+4/23/2020,16,4/1/2020,4/1/2020,1/1/2020,113016484,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+6/2/2020,22,6/1/2020,6/1/2020,1/1/2020,114535759,pro,year,pro year,69,99.25,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,76.59
+6/13/2021,24,6/1/2021,6/1/2021,1/1/2021,142722699,pro,month,pro month,6.99,31.33,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,8.3181
+6/4/2020,22,6/1/2020,6/1/2020,1/1/2020,114744428,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/16/2020,33,8/1/2020,8/1/2020,1/1/2020,119782291,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/10/2021,6,2/1/2021,2/1/2021,1/1/2021,133365793,pro,month,pro month,4.99,29.8,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,6.7864
+4/26/2020,17,4/1/2020,4/1/2020,1/1/2020,110120789,business,year,business year,509.15,532.15,USD,US,North America,United States,NA,US,NA,Northern America,509.15
+2/17/2020,7,2/1/2020,2/1/2020,1/1/2020,103594761,pro,year,pro year,69,110.93,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,87.63
+7/21/2020,29,7/1/2020,7/1/2020,1/1/2020,118816774,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+11/25/2020,47,11/1/2020,11/1/2020,1/1/2020,125842753,pro,year,pro year,69,103.17,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,80.04
+12/7/2020,49,12/1/2020,12/1/2020,1/1/2020,126625503,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/14/2021,46,11/1/2021,11/1/2021,1/1/2021,154608631,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/9/2021,36,9/1/2021,9/1/2021,1/1/2021,147425210,pro,year,pro year,84,107,USD,KE,Africa,Kenya,AF,KE,EMEA,Sub-Saharan Africa,84
+6/20/2021,25,6/1/2021,6/1/2021,1/1/2021,140819766,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/8/2021,14,4/1/2021,4/1/2021,1/1/2021,135477622,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/9/2021,6,2/1/2021,2/1/2021,1/1/2021,133260238,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+4/30/2020,17,4/1/2020,4/1/2020,1/1/2020,92283058,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/17/2021,37,9/1/2021,9/1/2021,1/1/2021,129305132,pro,month,pro month,12,35,USD,VN,Asia,Viet Nam,AS,VN,APAC,South-eastern Asia,12
+8/18/2020,33,8/1/2020,8/1/2020,1/1/2020,121617531,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/1/2020,13,4/1/2020,4/1/2020,1/1/2020,111543599,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+4/28/2021,17,4/1/2021,4/1/2021,1/1/2021,135019293,pro,year,pro year,1080,75.17,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,54
+9/23/2020,38,9/1/2020,9/1/2020,1/1/2020,94597075,pro,month,pro month,12,35,USD,NZ,Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand,12
+4/12/2021,15,4/1/2021,4/1/2021,1/1/2021,134690115,pro,month,pro month,NULL,NULL,NULL,CO,South America,Colombia,SA,CO,LATAM,Latin America and the Caribbean,NULL
+3/12/2021,10,3/1/2021,3/1/2021,1/1/2021,133362268,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/2/2021,9,3/1/2021,3/1/2021,1/1/2021,132556299,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/30/2020,39,9/1/2020,9/1/2020,1/1/2020,122337836,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/28/2020,21,5/1/2020,5/1/2020,1/1/2020,7977761,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/10/2021,10,3/1/2021,3/1/2021,1/1/2021,135482582,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/24/2021,51,12/1/2021,12/1/2021,1/1/2021,161439836,pro,year,pro year,69,99.58,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,76.59
+1/24/2021,4,1/1/2021,1/1/2021,1/1/2021,131986366,business,year,business year,649,524.97,CAD,CA,North America,Canada,NA,CA,NA,Northern America,499.73
+12/30/2021,52,12/1/2021,12/1/2021,1/1/2021,155448590,pro,month,pro month,12,35,USD,AE,Asia,United Arab Emirates,AS,AE,EMEA,Western Asia,12
+11/29/2021,48,11/1/2021,11/1/2021,1/1/2021,156213724,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/27/2020,17,4/1/2020,4/1/2020,1/1/2020,35476512,pro,year,pro year,78.88,101.88,USD,US,North America,United States,NA,US,NA,Northern America,78.88
+2/19/2021,7,2/1/2021,2/1/2021,1/1/2021,131700387,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/28/2021,21,5/1/2021,5/1/2021,1/1/2021,139017371,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/15/2021,2,1/1/2021,1/1/2021,1/1/2021,129328565,pro,year,pro year,84,107,USD,LK,Asia,Sri Lanka,AS,LK,APAC,Southern Asia,84
+3/2/2021,9,3/1/2021,3/1/2021,1/1/2021,15632100,pro,year,pro year,58.65,92.17,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,69.207
+9/22/2020,38,9/1/2020,9/1/2020,1/1/2020,121347186,enterprise,year,enterprise year,90000,864.13,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,900
+12/15/2020,50,12/1/2020,12/1/2020,1/1/2020,25182824,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/23/2021,21,5/1/2021,5/1/2021,1/1/2021,140848657,pro,month,pro month,124.99,32.08,ZAR,ZA,Africa,South Africa,AF,ZA,EMEA,Sub-Saharan Africa,8.7493
+12/2/2021,48,12/1/2021,12/1/2021,1/1/2021,159423965,enterprise,month,enterprise month,101.25,124.25,USD,US,North America,United States,NA,US,NA,Northern America,101.25
+3/26/2021,12,3/1/2021,3/1/2021,1/1/2021,136575979,pro,year,pro year,69,117.48,GBP,BE,Europe,Belgium,EU,BE,EMEA,Western Europe,94.53
+4/8/2021,14,4/1/2021,4/1/2021,1/1/2021,114409385,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+6/30/2021,26,6/1/2021,6/1/2021,1/1/2021,143268655,pro,month,pro month,4.99,29.89,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,6.8862
+9/25/2020,38,9/1/2020,9/1/2020,1/1/2020,116542032,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+6/25/2021,25,6/1/2021,6/1/2021,1/1/2021,143742619,pro,month,pro month,1200,33.85,JPY,jp,Asia,Japan,AS,JP,APAC,Eastern Asia,12
+5/5/2021,18,5/1/2021,5/1/2021,1/1/2021,139498726,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+2/24/2020,8,2/1/2020,2/1/2020,1/1/2020,48281712,pro,year,pro year,69,110.93,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,87.63
+9/17/2020,37,9/1/2020,9/1/2020,1/1/2020,117041637,pro,year,pro year,101,97.95,CAD,CA,North America,Canada,NA,CA,NA,Northern America,74.74
+3/28/2021,13,3/1/2021,3/1/2021,1/1/2021,134591599,pro,year,pro year,84,107,USD,LK,Asia,Sri Lanka,AS,LK,APAC,Southern Asia,84
+5/5/2021,18,5/1/2021,5/1/2021,1/1/2021,123973150,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+1/19/2021,3,1/1/2021,1/1/2021,1/1/2021,110051612,pro,year,pro year,41.31,72.36,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,49.1589
+11/25/2021,47,11/1/2021,11/1/2021,1/1/2021,155828248,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/30/2020,39,9/1/2020,9/1/2020,1/1/2020,122390591,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/21/2020,20,5/1/2020,5/1/2020,1/1/2020,116031209,pro,year,pro year,69,106.7,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,83.49
+4/16/2020,15,4/1/2020,4/1/2020,1/1/2020,109876667,pro,year,pro year,101,93.71,CAD,CA,North America,Canada,NA,CA,NA,Northern America,70.7
+3/24/2021,12,3/1/2021,3/1/2021,1/1/2021,136190141,pro,month,pro month,79,32.11,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,9.48
+9/30/2021,39,9/1/2021,9/1/2021,1/1/2021,152770527,pro,month,pro month,12,31.63,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,8.64
+5/21/2020,20,5/1/2020,5/1/2020,1/1/2020,113442048,pro,year,pro year,69,97.03,EUR,BE,Europe,Belgium,EU,BE,EMEA,Western Europe,73.83
+6/6/2020,22,6/1/2020,6/1/2020,1/1/2020,114919092,pro,year,pro year,69,99.25,EUR,BE,Europe,Belgium,EU,BE,EMEA,Western Europe,76.59
+11/9/2020,45,11/1/2020,11/1/2020,1/1/2020,126707549,business,year,business year,479,579.55,EUR,FI,Europe,Finland,EU,FI,EMEA,Northern Europe,555.64
+11/2/2021,44,11/1/2021,11/1/2021,1/1/2021,107997821,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/2/2021,26,7/1/2021,7/1/2021,1/1/2021,144283572,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/18/2020,24,6/1/2020,6/1/2020,1/1/2020,117777328,pro,year,pro year,69,99.25,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,76.59
+2/27/2021,8,2/1/2021,2/1/2021,1/1/2021,4461198,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/10/2021,32,8/1/2021,8/1/2021,1/1/2021,91717267,pro,year,pro year,69,102.8,EUR,FI,Europe,Finland,EU,FI,EMEA,Northern Europe,80.04
+3/3/2021,9,3/1/2021,3/1/2021,1/1/2021,134924947,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+2/17/2021,7,2/1/2021,2/1/2021,1/1/2021,131531622,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/19/2021,46,11/1/2021,11/1/2021,1/1/2021,155223048,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/9/2020,23,6/1/2020,6/1/2020,1/1/2020,117349870,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/27/2020,17,4/1/2020,4/1/2020,1/1/2020,27295671,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+9/28/2020,39,9/1/2020,9/1/2020,1/1/2020,122259513,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/18/2021,29,7/1/2021,7/1/2021,1/1/2021,143248965,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/16/2021,2,1/1/2021,1/1/2021,1/1/2021,101149561,pro,year,pro year,84,107,USD,EC,South America,Ecuador,SA,EC,LATAM,Latin America and the Caribbean,84
+4/21/2020,16,4/1/2020,4/1/2020,1/1/2020,113427509,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/31/2021,13,3/1/2021,3/1/2021,1/1/2021,136971911,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+4/2/2021,13,4/1/2021,4/1/2021,1/1/2021,123379776,pro,year,pro year,69,103.17,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,80.04
+9/14/2020,37,9/1/2020,9/1/2020,1/1/2020,82133627,enterprise,year,enterprise year,840,1000.62,EUR,US,North America,United States,NA,US,NA,Northern America,974.4
+3/28/2020,12,3/1/2020,3/1/2020,1/1/2020,23302269,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/31/2021,5,1/1/2021,1/1/2021,1/1/2021,11522682,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/24/2020,42,10/1/2020,10/1/2020,1/1/2020,123849780,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/13/2020,2,1/1/2020,1/1/2020,1/1/2020,107373933,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/6/2020,1,1/1/2020,1/1/2020,1/1/2020,107230711,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/24/2020,25,6/1/2020,6/1/2020,1/1/2020,110063756,pro,year,pro year,101,96.01,CAD,CA,North America,Canada,NA,CA,NA,Northern America,72.72
+3/14/2021,11,3/1/2021,3/1/2021,1/1/2021,80807693,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+9/2/2020,35,9/1/2020,9/1/2020,1/1/2020,122485919,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/15/2021,33,8/1/2021,8/1/2021,1/1/2021,145238468,business,year,business year,649,530.33,CAD,CA,North America,Canada,NA,CA,NA,Northern America,506.22
+10/14/2021,41,10/1/2021,10/1/2021,1/1/2021,71480703,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+3/31/2021,13,3/1/2021,3/1/2021,1/1/2021,136858959,enterprise,year,enterprise year,765,788,USD,IN,Asia,India,AS,IN,APAC,Southern Asia,765
+1/29/2021,4,1/1/2021,1/1/2021,1/1/2021,35652852,pro,year,pro year,714,105.38,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,85.68
+2/14/2021,7,2/1/2021,2/1/2021,1/1/2021,131349924,pro,year,pro year,69,99.03,CHF,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,75.9
+2/5/2021,5,2/1/2021,2/1/2021,1/1/2021,16142717,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+11/30/2021,48,11/1/2021,11/1/2021,1/1/2021,156232621,pro,year,pro year,101,95.93,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,72.72
+12/3/2020,48,12/1/2020,12/1/2020,1/1/2020,114420512,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+11/12/2020,45,11/1/2020,11/1/2020,1/1/2020,104827882,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/4/2020,22,6/1/2020,6/1/2020,1/1/2020,67508273,pro,month,pro month,10,35.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,12.2
+12/30/2020,52,12/1/2020,12/1/2020,1/1/2020,128218250,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/26/2020,34,8/1/2020,8/1/2020,1/1/2020,121932052,enterprise,year,enterprise year,803.25,1053.89,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,1028.16
+5/15/2020,19,5/1/2020,5/1/2020,1/1/2020,112859661,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/30/2021,26,6/1/2021,6/1/2021,1/1/2021,144157833,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+10/29/2021,43,10/1/2021,10/1/2021,1/1/2021,156022703,pro,month,pro month,79,32.14,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,9.48
+11/16/2021,46,11/1/2021,11/1/2021,1/1/2021,157618049,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+8/19/2020,33,8/1/2020,8/1/2020,1/1/2020,121682098,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+3/15/2021,11,3/1/2021,3/1/2021,1/1/2021,127584038,pro,year,pro year,69,104.37,EUR,MT,Europe,Malta,EU,MT,EMEA,Southern Europe,81.42
+7/28/2021,30,7/1/2021,7/1/2021,1/1/2021,144058742,business,year,business year,479,579.59,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,555.64
+6/6/2020,22,6/1/2020,6/1/2020,1/1/2020,108120297,enterprise,year,enterprise year,840,951.32,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,932.4
+7/16/2020,28,7/1/2020,7/1/2020,1/1/2020,117856762,pro,year,pro year,69,100.71,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,77.97
+7/16/2020,28,7/1/2020,7/1/2020,1/1/2020,119652890,enterprise,year,enterprise year,765,788,USD,US,North America,United States,NA,US,NA,Northern America,765
+4/30/2020,17,4/1/2020,4/1/2020,1/1/2020,114293349,pro,year,pro year,69,96.3,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,73.14
+7/27/2020,30,7/1/2020,7/1/2020,1/1/2020,118543043,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/25/2020,47,11/1/2020,11/1/2020,1/1/2020,127901126,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/23/2021,16,4/1/2021,4/1/2021,1/1/2021,136277124,pro,year,pro year,69,103.17,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,80.04
+11/30/2020,48,11/1/2020,11/1/2020,1/1/2020,127789494,pro,month,pro month,11.55,34.55,USD,US,North America,United States,NA,US,NA,Northern America,11.55
+2/22/2021,8,2/1/2021,2/1/2021,1/1/2021,131931789,pro,year,pro year,101,101.29,CAD,CA,North America,Canada,NA,CA,NA,Northern America,78.78
+5/23/2021,21,5/1/2021,5/1/2021,1/1/2021,138625505,business,year,business year,649,547.69,CAD,CA,North America,Canada,NA,CA,NA,Northern America,525.69
+10/16/2020,41,10/1/2020,10/1/2020,1/1/2020,49956900,pro,month,pro month,11.62,34.62,USD,KZ,Asia,Kazakhstan,AS,KZ,EMEA,Central Asia,11.62
+3/19/2020,11,3/1/2020,3/1/2020,1/1/2020,110038089,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/19/2020,20,5/1/2020,5/1/2020,1/1/2020,113305765,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/22/2021,8,2/1/2021,2/1/2021,1/1/2021,133703147,pro,year,pro year,83.42,106.42,USD,US,North America,United States,NA,US,NA,Northern America,83.42
+5/20/2021,20,5/1/2021,5/1/2021,1/1/2021,138428188,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/5/2020,14,4/1/2020,4/1/2020,1/1/2020,111410307,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+3/6/2021,9,3/1/2021,3/1/2021,1/1/2021,135151634,pro,month,pro month,59,32.36,DKK,DK,Europe,Denmark,EU,DK,EMEA,Northern Europe,9.44
+12/26/2020,51,12/1/2020,12/1/2020,1/1/2020,127958074,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/23/2020,51,12/1/2020,12/1/2020,1/1/2020,129810890,pro,year,pro year,69,105.21,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,82.11
+1/14/2021,2,1/1/2021,1/1/2021,1/1/2021,131227614,enterprise,year,enterprise year,90000,878.71,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,900
+3/11/2021,10,3/1/2021,3/1/2021,1/1/2021,133279577,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/9/2021,23,6/1/2021,6/1/2021,1/1/2021,106239225,pro,year,pro year,8400,98.96,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+5/8/2021,18,5/1/2021,5/1/2021,1/1/2021,137516918,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/6/2020,5,2/1/2020,2/1/2020,1/1/2020,108057971,pro,year,pro year,82.77,105.77,USD,US,North America,United States,NA,US,NA,Northern America,82.77
+4/15/2020,15,4/1/2020,4/1/2020,1/1/2020,112916536,enterprise,year,enterprise year,720,743,USD,US,North America,United States,NA,US,NA,Northern America,720
+7/8/2020,27,7/1/2020,7/1/2020,1/1/2020,1803554,pro,year,pro year,67.2,90.2,USD,US,North America,United States,NA,US,NA,Northern America,67.2
+11/8/2021,45,11/1/2021,11/1/2021,1/1/2021,75688240,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/18/2021,3,1/1/2021,1/1/2021,1/1/2021,130935913,pro,year,pro year,82.79,105.79,USD,ZW,Africa,Zimbabwe,AF,ZW,EMEA,Sub-Saharan Africa,82.79
+7/2/2021,26,7/1/2021,7/1/2021,1/1/2021,144340858,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+2/20/2021,7,2/1/2021,2/1/2021,1/1/2021,131794624,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/22/2021,38,9/1/2021,9/1/2021,1/1/2021,151883345,pro,month,pro month,10,34.57,EUR,GR,Europe,Greece,EU,GR,EMEA,Southern Europe,11.6
+1/23/2021,3,1/1/2021,1/1/2021,1/1/2021,129892033,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/8/2020,23,6/1/2020,6/1/2020,1/1/2020,117364231,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/5/2020,22,6/1/2020,6/1/2020,1/1/2020,114833540,pro,year,pro year,269,89.92,PLN,PL,Europe,Poland,EU,PL,EMEA,Eastern Europe,67.25
+2/13/2020,6,2/1/2020,2/1/2020,1/1/2020,72819703,pro,year,pro year,41.31,67.5,EUR,CV,Africa,Cabo Verde,AF,CV,EMEA,Sub-Saharan Africa,44.6148
+4/10/2020,14,4/1/2020,4/1/2020,1/1/2020,112424840,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/2/2021,0,1/1/2021,1/1/2021,1/1/2021,128441612,pro,year,pro year,69,115.45,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,92.46
+12/14/2020,50,12/1/2020,12/1/2020,1/1/2020,121398632,business,year,business year,599,622,USD,CO,South America,Colombia,SA,CO,LATAM,Latin America and the Caribbean,599
+2/9/2020,6,2/1/2020,2/1/2020,1/1/2020,108468248,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+6/12/2021,23,6/1/2021,6/1/2021,1/1/2021,137906345,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/27/2021,21,5/1/2021,5/1/2021,1/1/2021,140499032,business,year,business year,479,684.2,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,661.02
+2/5/2021,5,2/1/2021,2/1/2021,1/1/2021,130423658,pro,year,pro year,101,101.29,CAD,CA,North America,Canada,NA,CA,NA,Northern America,78.78
+8/10/2020,32,8/1/2020,8/1/2020,1/1/2020,119341248,pro,year,pro year,69,102.56,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,79.35
+2/23/2021,8,2/1/2021,2/1/2021,1/1/2021,7026500,pro,year,pro year,101,99.94,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,76.76
+12/22/2021,51,12/1/2021,12/1/2021,1/1/2021,161389641,enterprise,month,enterprise month,10125,110.74,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,101.25
+2/27/2021,8,2/1/2021,2/1/2021,1/1/2021,130467320,pro,year,pro year,84,107,USD,BY,Europe,Belarus,EU,BY,EMEA,Eastern Europe,84
+3/12/2020,10,3/1/2020,3/1/2020,1/1/2020,99929856,pro,year,pro year,101,83.49,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,60.6
+10/28/2021,43,10/1/2021,10/1/2021,1/1/2021,155962628,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+4/22/2021,16,4/1/2021,4/1/2021,1/1/2021,136422006,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/22/2020,38,9/1/2020,9/1/2020,1/1/2020,123689872,pro,year,pro year,101,97.95,CAD,CA,North America,Canada,NA,CA,NA,Northern America,74.74
+1/23/2020,3,1/1/2020,1/1/2020,1/1/2020,25021256,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+9/4/2020,35,9/1/2020,9/1/2020,1/1/2020,113611134,pro,year,pro year,69,110.61,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,87.63
+11/17/2020,46,11/1/2020,11/1/2020,1/1/2020,125320139,pro,year,pro year,84,107,USD,NZ,Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand,84
+9/4/2020,35,9/1/2020,9/1/2020,1/1/2020,120849240,pro,year,pro year,69,110.61,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,87.63
+12/30/2020,52,12/1/2020,12/1/2020,1/1/2020,117143813,pro,month,pro month,279,36.73,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,13.95
+8/22/2021,34,8/1/2021,8/1/2021,1/1/2021,146053544,pro,year,pro year,69,102.8,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,80.04
+4/9/2021,14,4/1/2021,4/1/2021,1/1/2021,137176185,pro,month,pro month,5.73,29.66,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,6.6468
+10/9/2021,40,10/1/2021,10/1/2021,1/1/2021,153826180,pro,month,pro month,6.99,31.01,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,8.0385
+12/15/2020,50,12/1/2020,12/1/2020,1/1/2020,129302640,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/11/2020,49,12/1/2020,12/1/2020,1/1/2020,126889496,pro,year,pro year,84,107,USD,IS,Europe,Iceland,EU,IS,EMEA,Northern Europe,84
+3/20/2020,11,3/1/2020,3/1/2020,1/1/2020,108804254,pro,year,pro year,69,106.01,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,82.8
+12/28/2021,52,12/1/2021,12/1/2021,1/1/2021,54389742,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+11/18/2020,46,11/1/2020,11/1/2020,1/1/2020,118256450,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/3/2021,1,1/1/2021,1/1/2021,1/1/2021,118422491,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+6/26/2021,25,6/1/2021,6/1/2021,1/1/2021,141318483,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/26/2020,30,7/1/2020,7/1/2020,1/1/2020,120308546,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+2/21/2021,8,2/1/2021,2/1/2021,1/1/2021,131835922,pro,year,pro year,101,101.29,CAD,CA,North America,Canada,NA,CA,NA,Northern America,78.78
+5/1/2020,17,5/1/2020,5/1/2020,1/1/2020,56973300,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/31/2021,22,5/1/2021,5/1/2021,1/1/2021,141588864,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+11/10/2021,45,11/1/2021,11/1/2021,1/1/2021,112293639,pro,year,pro year,69,114.62,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,91.77
+3/5/2020,9,3/1/2020,3/1/2020,1/1/2020,105282813,pro,year,pro year,69,97.51,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,74.52
+4/25/2020,16,4/1/2020,4/1/2020,1/1/2020,110844251,pro,year,pro year,69,96.3,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,73.14
+7/23/2020,29,7/1/2020,7/1/2020,1/1/2020,105883192,pro,month,pro month,10,34.26,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,11.3
+6/11/2021,23,6/1/2021,6/1/2021,1/1/2021,138142563,pro,year,pro year,84,107,USD,CR,North America,Costa Rica,NA,CR,LATAM,Latin America and the Caribbean,84
+3/4/2020,9,3/1/2020,3/1/2020,1/1/2020,109295224,enterprise,year,enterprise year,900,923,USD,US,North America,United States,NA,US,NA,Northern America,900
+5/28/2020,21,5/1/2020,5/1/2020,1/1/2020,116626248,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+9/27/2020,39,9/1/2020,9/1/2020,1/1/2020,122187348,pro,year,pro year,69,103.3,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,80.04
+7/8/2021,27,7/1/2021,7/1/2021,1/1/2021,144760654,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+9/23/2021,38,9/1/2021,9/1/2021,1/1/2021,151911904,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+12/15/2020,50,12/1/2020,12/1/2020,1/1/2020,99962863,pro,year,pro year,101,97.18,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,73.73
+2/23/2021,8,2/1/2021,2/1/2021,1/1/2021,134297428,enterprise,year,enterprise year,936000,859.95,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+11/13/2021,45,11/1/2021,11/1/2021,1/1/2021,154520255,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/22/2021,38,9/1/2021,9/1/2021,1/1/2021,148621630,pro,year,pro year,69,116.47,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.15
+11/15/2021,46,11/1/2021,11/1/2021,1/1/2021,157717248,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+9/4/2021,35,9/1/2021,9/1/2021,1/1/2021,148918758,pro,month,pro month,137.07,29.73,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,6.8535
+12/14/2020,50,12/1/2020,12/1/2020,1/1/2020,88198045,pro,month,pro month,11.73,34.73,USD,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,11.73
+9/13/2021,37,9/1/2021,9/1/2021,1/1/2021,150055967,pro,year,pro year,80.03,103.03,USD,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,80.03
+6/10/2021,23,6/1/2021,6/1/2021,1/1/2021,138797894,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/17/2020,33,8/1/2020,8/1/2020,1/1/2020,121178217,pro,month,pro month,11.61,34.61,USD,US,North America,United States,NA,US,NA,Northern America,11.61
+3/24/2020,12,3/1/2020,3/1/2020,1/1/2020,110259389,enterprise,month,enterprise month,NULL,NULL,USD,FR,Europe,France,EU,FR,EMEA,Western Europe,NULL
+3/5/2021,9,3/1/2021,3/1/2021,1/1/2021,135133386,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+5/19/2020,20,5/1/2020,5/1/2020,1/1/2020,113253863,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/19/2020,46,11/1/2020,11/1/2020,1/1/2020,106212014,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/13/2020,32,8/1/2020,8/1/2020,1/1/2020,62340280,pro,year,pro year,69,102.56,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,79.35
+12/2/2021,48,12/1/2021,12/1/2021,1/1/2021,159335862,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/30/2020,26,6/1/2020,6/1/2020,1/1/2020,117063912,pro,year,pro year,83.99,106.99,USD,US,North America,United States,NA,US,NA,Northern America,83.99
+2/7/2020,5,2/1/2020,2/1/2020,1/1/2020,1423113,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/20/2021,11,3/1/2021,3/1/2021,1/1/2021,134064146,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/28/2021,39,9/1/2021,9/1/2021,1/1/2021,149208903,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/19/2020,16,4/1/2020,4/1/2020,1/1/2020,113225226,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/27/2021,12,3/1/2021,3/1/2021,1/1/2021,136673354,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/22/2020,25,6/1/2020,6/1/2020,1/1/2020,117889457,pro,year,pro year,69,107.49,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,84.18
+9/13/2021,37,9/1/2021,9/1/2021,1/1/2021,68797299,pro,year,pro year,84,107,USD,TN,Africa,Tunisia,AF,TN,EMEA,Northern Africa,84
+9/28/2021,39,9/1/2021,9/1/2021,1/1/2021,150366830,pro,year,pro year,69,102.83,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,80.04
+12/3/2021,48,12/1/2021,12/1/2021,1/1/2021,159508528,pro,month,pro month,12,35,USD,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,12
+6/12/2020,23,6/1/2020,6/1/2020,1/1/2020,114913198,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/26/2021,4,1/1/2021,1/1/2021,1/1/2021,130038280,pro,year,pro year,101,101.12,CAD,CA,North America,Canada,NA,CA,NA,Northern America,77.77
+10/25/2020,43,10/1/2020,10/1/2020,1/1/2020,125813777,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+6/30/2020,26,6/1/2020,6/1/2020,1/1/2020,21009675,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/20/2020,29,7/1/2020,7/1/2020,1/1/2020,60073455,pro,year,pro year,84,107,USD,CO,South America,Colombia,SA,CO,LATAM,Latin America and the Caribbean,84
+12/11/2020,49,12/1/2020,12/1/2020,1/1/2020,128985667,pro,year,pro year,84,107,USD,CO,South America,Colombia,SA,CO,LATAM,Latin America and the Caribbean,84
+4/24/2020,16,4/1/2020,4/1/2020,1/1/2020,98703543,pro,month,pro month,13,32.1,CAD,CA,North America,Canada,NA,CA,NA,Northern America,9.1
+9/7/2021,36,9/1/2021,9/1/2021,1/1/2021,148625184,pro,year,pro year,58.65,90.86,EUR,BE,Europe,Belgium,EU,BE,EMEA,Western Europe,68.034
+10/30/2020,43,10/1/2020,10/1/2020,1/1/2020,124208532,pro,year,pro year,8400,101.39,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+11/30/2020,48,11/1/2020,11/1/2020,1/1/2020,127784834,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+5/12/2021,19,5/1/2021,5/1/2021,1/1/2021,137827696,pro,year,pro year,69,118.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,95.22
+12/2/2020,48,12/1/2020,12/1/2020,1/1/2020,128229796,enterprise,year,enterprise year,840,1023.82,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,999.6
+10/13/2020,41,10/1/2020,10/1/2020,1/1/2020,122921651,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/15/2020,32,8/1/2020,8/1/2020,1/1/2020,121467961,pro,month,pro month,12,35,USD,AR,South America,Argentina,SA,AR,LATAM,Latin America and the Caribbean,12
+9/24/2020,38,9/1/2020,9/1/2020,1/1/2020,104889079,pro,year,pro year,69,110.61,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,87.63
+7/14/2021,28,7/1/2021,7/1/2021,1/1/2021,145288182,pro,month,pro month,10,34.62,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,11.6
+11/21/2021,47,11/1/2021,11/1/2021,1/1/2021,155419111,pro,year,pro year,101,95.93,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,72.72
+2/24/2020,8,2/1/2020,2/1/2020,1/1/2020,43201380,pro,year,pro year,80.35,103.35,USD,US,North America,United States,NA,US,NA,Northern America,80.35
+9/14/2020,37,9/1/2020,9/1/2020,1/1/2020,95686059,pro,year,pro year,58.65,97.47,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,74.4855
+1/30/2021,4,1/1/2021,1/1/2021,1/1/2021,130318498,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/30/2020,4,1/1/2020,1/1/2020,1/1/2020,71605213,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+5/29/2020,21,5/1/2020,5/1/2020,1/1/2020,111690378,pro,year,pro year,84,107,USD,PH,Asia,Philippines,AS,PH,APAC,South-eastern Asia,84
+12/26/2021,52,12/1/2021,12/1/2021,1/1/2021,130893572,pro,month,pro month,11.63,34.63,USD,US,North America,United States,NA,US,NA,Northern America,11.63
+6/16/2021,24,6/1/2021,6/1/2021,1/1/2021,139524693,pro,month,pro month,12,35,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,12
+11/12/2020,45,11/1/2020,11/1/2020,1/1/2020,125004816,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+3/2/2020,9,3/1/2020,3/1/2020,1/1/2020,67025019,pro,month,pro month,12,35,USD,TH,Asia,Thailand,AS,TH,APAC,South-eastern Asia,12
+2/18/2020,7,2/1/2020,2/1/2020,1/1/2020,108535667,pro,month,pro month,11.6,34.6,USD,US,North America,United States,NA,US,NA,Northern America,11.6
+6/3/2020,22,6/1/2020,6/1/2020,1/1/2020,105046440,pro,month,pro month,25,26.62,TRY,TR,Asia,Turkey,AS,TR,EMEA,Western Asia,3.5
+12/7/2021,49,12/1/2021,12/1/2021,1/1/2021,157045498,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/16/2021,11,3/1/2021,3/1/2021,1/1/2021,135405761,pro,month,pro month,47.99,NULL,BOB,BO,South America,"Bolivia, Plurinational State of",SA,BO,LATAM,Latin America and the Caribbean,NULL
+11/28/2021,48,11/1/2021,11/1/2021,1/1/2021,156094579,pro,year,pro year,101,102.4,CAD,CA,North America,Canada,NA,CA,NA,Northern America,79.79
+2/6/2021,5,2/1/2021,2/1/2021,1/1/2021,130788140,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/31/2021,35,8/1/2021,8/1/2021,1/1/2021,146772533,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/9/2021,45,11/1/2021,11/1/2021,1/1/2021,154030243,pro,year,pro year,69,100.34,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,77.28
+3/11/2020,10,3/1/2020,3/1/2020,1/1/2020,109526492,pro,month,pro month,12400,33.18,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+12/7/2020,49,12/1/2020,12/1/2020,1/1/2020,128731904,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/17/2021,28,7/1/2021,7/1/2021,1/1/2021,133804196,pro,month,pro month,8.99,30.06,CAD,CA,North America,Canada,NA,CA,NA,Northern America,7.1021
+11/1/2020,44,11/1/2020,11/1/2020,1/1/2020,126210751,pro,year,pro year,69,103.17,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,80.04
+10/13/2021,41,10/1/2021,10/1/2021,1/1/2021,150978345,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/28/2020,26,6/1/2020,6/1/2020,1/1/2020,118181548,pro,month,pro month,11.58,34.58,USD,US,North America,United States,NA,US,NA,Northern America,11.58
+6/6/2021,23,6/1/2021,6/1/2021,1/1/2021,16852111,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/4/2020,13,4/1/2020,4/1/2020,1/1/2020,110440462,pro,month,pro month,12,30.4,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,7.44
+11/1/2021,44,11/1/2021,11/1/2021,1/1/2021,156316156,pro,month,pro month,10,34.21,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,11.2
+7/7/2020,27,7/1/2020,7/1/2020,1/1/2020,118196756,pro,month,pro month,10,34.26,EUR,SK,Europe,Slovakia,EU,SK,EMEA,Eastern Europe,11.3
+3/16/2021,11,3/1/2021,3/1/2021,1/1/2021,89508728,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/24/2020,42,10/1/2020,10/1/2020,1/1/2020,123837148,pro,year,pro year,69,102.45,EUR,PT,Europe,Portugal,EU,PT,EMEA,Southern Europe,79.35
+3/8/2021,10,3/1/2021,3/1/2021,1/1/2021,133045892,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/9/2021,6,2/1/2021,2/1/2021,1/1/2021,133259905,pro,year,pro year,336,124.24,ILS,IL,Asia,Israel,AS,IL,EMEA,Western Asia,100.8
+3/23/2020,12,3/1/2020,3/1/2020,1/1/2020,86799432,pro,year,pro year,41.66,73.12,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,49.992
+5/30/2021,22,5/1/2021,5/1/2021,1/1/2021,139160826,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/19/2021,29,7/1/2021,7/1/2021,1/1/2021,145684714,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+3/4/2021,9,3/1/2021,3/1/2021,1/1/2021,135024740,pro,month,pro month,800,33.59,RUB,RU,Europe,Russian Federation,EU,RU,APAC,Eastern Europe,8
+10/28/2021,43,10/1/2021,10/1/2021,1/1/2021,152708513,pro,year,pro year,69,115.95,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.15
+7/18/2021,29,7/1/2021,7/1/2021,1/1/2021,143194969,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/20/2021,46,11/1/2021,11/1/2021,1/1/2021,155235191,pro,year,pro year,69,100.34,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,77.28
+12/29/2020,52,12/1/2020,12/1/2020,1/1/2020,128127851,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/20/2021,51,12/1/2021,12/1/2021,1/1/2021,101949693,pro,year,pro year,79.81,102.81,USD,US,North America,United States,NA,US,NA,Northern America,79.81
+9/2/2020,35,9/1/2020,9/1/2020,1/1/2020,107028960,pro,year,pro year,82.65,105.65,USD,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,82.65
+5/19/2020,20,5/1/2020,5/1/2020,1/1/2020,115845296,enterprise,year,enterprise year,900,923,USD,US,North America,United States,NA,US,NA,Northern America,900
+12/1/2020,48,12/1/2020,12/1/2020,1/1/2020,127876073,pro,year,pro year,69,105.21,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,82.11
+11/8/2021,45,11/1/2021,11/1/2021,1/1/2021,156952365,pro,month,pro month,9.49,30.46,CAD,CA,North America,Canada,NA,CA,NA,Northern America,7.4971
+5/15/2020,19,5/1/2020,5/1/2020,1/1/2020,115469106,pro,year,pro year,69,106.7,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,83.49
+6/3/2021,22,6/1/2021,6/1/2021,1/1/2021,139447410,pro,year,pro year,69,118.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,95.22
+4/21/2021,16,4/1/2021,4/1/2021,1/1/2021,138394851,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+11/8/2021,45,11/1/2021,11/1/2021,1/1/2021,153927034,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/11/2021,23,6/1/2021,6/1/2021,1/1/2021,57815630,pro,year,pro year,69,105.23,EUR,LU,Europe,Luxembourg,EU,LU,EMEA,Western Europe,82.11
+10/6/2021,40,10/1/2021,10/1/2021,1/1/2021,150158262,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/15/2020,24,6/1/2020,6/1/2020,1/1/2020,67961075,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/21/2021,3,1/1/2021,1/1/2021,1/1/2021,3611927,pro,year,pro year,69,115.45,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,92.46
+6/11/2020,23,6/1/2020,6/1/2020,1/1/2020,117520102,pro,month,pro month,10,34.05,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,11.1
+2/8/2021,6,2/1/2021,2/1/2021,1/1/2021,133171550,pro,month,pro month,6.99,32.53,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,9.5064
+6/16/2020,24,6/1/2020,6/1/2020,1/1/2020,115666331,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/25/2020,47,11/1/2020,11/1/2020,1/1/2020,125856100,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/29/2021,52,12/1/2021,12/1/2021,1/1/2021,58159208,pro,month,pro month,10,34.1,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,11.1
+12/15/2020,50,12/1/2020,12/1/2020,1/1/2020,129244821,enterprise,year,enterprise year,90000,874.65,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,900
+7/26/2021,30,7/1/2021,7/1/2021,1/1/2021,146204543,pro,year,pro year,69,116.53,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.84
+4/14/2020,15,4/1/2020,4/1/2020,1/1/2020,92138431,pro,year,pro year,88200,94.66,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+2/11/2021,6,2/1/2021,2/1/2021,1/1/2021,131082781,pro,year,pro year,69,117.08,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.84
+5/28/2021,21,5/1/2021,5/1/2021,1/1/2021,139056693,pro,year,pro year,101,100,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,76.76
+2/23/2020,8,2/1/2020,2/1/2020,1/1/2020,107851017,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+2/28/2021,9,2/1/2021,2/1/2021,1/1/2021,132364272,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/15/2020,28,7/1/2020,7/1/2020,1/1/2020,119613122,business,year,business year,621999,537.82,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+6/7/2021,23,6/1/2021,6/1/2021,1/1/2021,80909393,pro,year,pro year,69,105.23,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,82.11
+2/19/2021,7,2/1/2021,2/1/2021,1/1/2021,131316166,pro,year,pro year,69,105.34,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,82.11
+6/28/2021,26,6/1/2021,6/1/2021,1/1/2021,143326702,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+11/16/2020,46,11/1/2020,11/1/2020,1/1/2020,126742134,pro,year,pro year,82.19,105.19,USD,US,North America,United States,NA,US,NA,Northern America,82.19
+10/8/2021,40,10/1/2021,10/1/2021,1/1/2021,150435100,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/7/2020,40,10/1/2020,10/1/2020,1/1/2020,4214519,pro,year,pro year,69,110.87,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,87.63
+1/15/2020,2,1/1/2020,1/1/2020,1/1/2020,107541252,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+7/29/2021,30,7/1/2021,7/1/2021,1/1/2021,29291167,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/9/2021,14,4/1/2021,4/1/2021,1/1/2021,135138650,pro,year,pro year,714,105.7,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,85.68
+6/16/2021,24,6/1/2021,6/1/2021,1/1/2021,140779073,pro,year,pro year,81.65,104.65,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,81.65
+11/12/2021,45,11/1/2021,11/1/2021,1/1/2021,106013043,pro,year,pro year,8400,95.54,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+8/24/2021,34,8/1/2021,8/1/2021,1/1/2021,146269325,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+6/19/2020,24,6/1/2020,6/1/2020,1/1/2020,115857241,business,year,business year,599,622,USD,LK,Asia,Sri Lanka,AS,LK,APAC,Southern Asia,599
+1/23/2021,3,1/1/2021,1/1/2021,1/1/2021,129882406,pro,year,pro year,714,107.61,SEK,SE,Europe,Sweden,EU,SE,EMEA,Northern Europe,85.68
+1/12/2021,2,1/1/2021,1/1/2021,1/1/2021,128862537,pro,year,pro year,69,115.45,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,92.46
+4/30/2021,17,4/1/2021,4/1/2021,1/1/2021,139083290,pro,month,pro month,12,35,USD,UA,Europe,Ukraine,EU,UA,EMEA,Eastern Europe,12
+3/4/2020,9,3/1/2020,3/1/2020,1/1/2020,57641740,pro,month,pro month,11.39,34.39,USD,NZ,Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand,11.39
+11/3/2020,44,11/1/2020,11/1/2020,1/1/2020,117345886,pro,year,pro year,67.2,90.2,USD,US,North America,United States,NA,US,NA,Northern America,67.2
+8/22/2021,34,8/1/2021,8/1/2021,1/1/2021,148386353,pro,month,pro month,12,35,USD,LK,Asia,Sri Lanka,AS,LK,APAC,Southern Asia,12
+11/14/2021,46,11/1/2021,11/1/2021,1/1/2021,34414187,pro,year,pro year,101,102.4,CAD,CA,North America,Canada,NA,CA,NA,Northern America,79.79
+10/19/2021,42,10/1/2021,10/1/2021,1/1/2021,154916101,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/22/2021,25,6/1/2021,6/1/2021,1/1/2021,140975352,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+12/29/2021,52,12/1/2021,12/1/2021,1/1/2021,159244442,pro,year,pro year,88200,96.96,KRW,KR,Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia,0
+4/28/2021,17,4/1/2021,4/1/2021,1/1/2021,138956468,pro,month,pro month,6.99,31.12,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,8.1084
+7/29/2021,30,7/1/2021,7/1/2021,1/1/2021,140704171,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/19/2021,51,12/1/2021,12/1/2021,1/1/2021,91917488,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/2/2021,5,2/1/2021,2/1/2021,1/1/2021,130471002,pro,year,pro year,84,107,USD,CO,South America,Colombia,SA,CO,LATAM,Latin America and the Caribbean,84
+2/24/2021,8,2/1/2021,2/1/2021,1/1/2021,133827973,pro,month,pro month,11.8,34.8,USD,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,11.8
+3/25/2020,12,3/1/2020,3/1/2020,1/1/2020,108958831,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+4/10/2020,14,4/1/2020,4/1/2020,1/1/2020,9408026,pro,month,pro month,11.44,34.44,USD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,11.44
+5/20/2021,20,5/1/2021,5/1/2021,1/1/2021,138441976,pro,year,pro year,84,107,USD,VN,Asia,Viet Nam,AS,VN,APAC,South-eastern Asia,84
+12/1/2021,48,12/1/2021,12/1/2021,1/1/2021,156344966,pro,year,pro year,101,93.83,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,70.7
+4/3/2021,13,4/1/2021,4/1/2021,1/1/2021,133073082,business,year,business year,479,671.13,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,646.65
+10/6/2021,40,10/1/2021,10/1/2021,1/1/2021,150117537,pro,year,pro year,69,102.1,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,79.35
+2/8/2021,6,2/1/2021,2/1/2021,1/1/2021,133204916,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/29/2020,39,9/1/2020,9/1/2020,1/1/2020,122293266,pro,year,pro year,101,94.32,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,71.71
+10/22/2020,42,10/1/2020,10/1/2020,1/1/2020,123700017,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/29/2020,21,5/1/2020,5/1/2020,1/1/2020,48309286,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+9/7/2020,36,9/1/2020,9/1/2020,1/1/2020,121031136,pro,year,pro year,69,110.61,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,87.63
+10/20/2020,42,10/1/2020,10/1/2020,1/1/2020,51474174,pro,year,pro year,101,98.3,CAD,CA,North America,Canada,NA,CA,NA,Northern America,75.75
+8/8/2020,31,8/1/2020,8/1/2020,1/1/2020,118495303,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/16/2020,24,6/1/2020,6/1/2020,1/1/2020,115676821,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/23/2021,29,7/1/2021,7/1/2021,1/1/2021,141472361,pro,year,pro year,84,107,USD,RO,Europe,Romania,EU,RO,EMEA,Eastern Europe,84
+1/28/2020,4,1/1/2020,1/1/2020,1/1/2020,106995102,pro,year,pro year,69,111.51,GBP,IN,Asia,India,AS,IN,APAC,Southern Asia,88.32
+12/31/2020,52,12/1/2020,12/1/2020,1/1/2020,128300818,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/29/2021,35,8/1/2021,8/1/2021,1/1/2021,147817558,pro,month,pro month,12,35,USD,BY,Europe,Belarus,EU,BY,EMEA,Eastern Europe,12
+8/20/2020,33,8/1/2020,8/1/2020,1/1/2020,121748289,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/6/2021,5,2/1/2021,2/1/2021,1/1/2021,130836630,pro,month,pro month,10,34.93,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,11.9
+4/15/2021,15,4/1/2021,4/1/2021,1/1/2021,130256240,pro,year,pro year,810,62.12,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,40.5
+6/24/2021,25,6/1/2021,6/1/2021,1/1/2021,89136788,pro,year,pro year,69,105.23,EUR,AT,Europe,Austria,EU,AT,EMEA,Western Europe,82.11
+12/12/2020,49,12/1/2020,12/1/2020,1/1/2020,126974508,business,year,business year,599,622,USD,EG,Africa,Egypt,AF,EG,EMEA,Northern Africa,599
+7/11/2021,28,7/1/2021,7/1/2021,1/1/2021,110452758,pro,month,pro month,11.74,34.74,USD,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,11.74
+10/3/2021,40,10/1/2021,10/1/2021,1/1/2021,52001779,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+3/12/2020,10,3/1/2020,3/1/2020,1/1/2020,109586633,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+5/15/2020,19,5/1/2020,5/1/2020,1/1/2020,115519594,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+7/18/2020,28,7/1/2020,7/1/2020,1/1/2020,119823891,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/10/2021,19,5/1/2021,5/1/2021,1/1/2021,139883294,pro,month,pro month,9.49,30.67,CAD,CA,North America,Canada,NA,CA,NA,Northern America,7.6869
+11/2/2020,44,11/1/2020,11/1/2020,1/1/2020,123220225,pro,year,pro year,8400,102.39,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+2/11/2020,6,2/1/2020,2/1/2020,1/1/2020,107424807,pro,year,pro year,84,107,USD,IN,Asia,India,AS,IN,APAC,Southern Asia,84
+5/4/2021,18,5/1/2021,5/1/2021,1/1/2021,139081483,pro,year,pro year,84,107,USD,CZ,Europe,Czech Republic,EU,CZ,EMEA,Eastern Europe,84
+9/14/2020,37,9/1/2020,9/1/2020,1/1/2020,123168949,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+6/18/2020,24,6/1/2020,6/1/2020,1/1/2020,117970566,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/28/2021,43,10/1/2021,10/1/2021,1/1/2021,152710731,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/9/2021,19,5/1/2021,5/1/2021,1/1/2021,122735984,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+4/12/2021,15,4/1/2021,4/1/2021,1/1/2021,135700345,pro,year,pro year,336,122.95,ILS,IL,Asia,Israel,AS,IL,EMEA,Western Asia,100.8
+9/17/2020,37,9/1/2020,9/1/2020,1/1/2020,97825795,pro,year,pro year,69,103.3,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,80.04
+4/10/2020,14,4/1/2020,4/1/2020,1/1/2020,111702313,pro,year,pro year,79.64,102.64,USD,US,North America,United States,NA,US,NA,Northern America,79.64
+1/9/2021,1,1/1/2021,1/1/2021,1/1/2021,95797400,pro,year,pro year,84,107,USD,IN,Asia,India,AS,IN,APAC,Southern Asia,84
+1/15/2021,2,1/1/2021,1/1/2021,1/1/2021,131352137,pro,month,pro month,11.99,37.33,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,14.2681
+6/5/2021,22,6/1/2021,6/1/2021,1/1/2021,139624514,pro,year,pro year,69,118.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,95.22
+6/23/2020,25,6/1/2020,6/1/2020,1/1/2020,117966511,pro,year,pro year,69,107.49,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,84.18
+3/12/2021,10,3/1/2021,3/1/2021,1/1/2021,135596701,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+3/2/2021,9,3/1/2021,3/1/2021,1/1/2021,131793347,pro,month,pro month,10.2,33.2,USD,EG,Africa,Egypt,AF,EG,EMEA,Northern Africa,10.2
+1/16/2021,2,1/1/2021,1/1/2021,1/1/2021,130841855,pro,month,pro month,9.16,35.27,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,12.2744
+3/31/2020,13,3/1/2020,3/1/2020,1/1/2020,110797863,pro,month,pro month,10,33.8,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,10.8
+6/21/2020,25,6/1/2020,6/1/2020,1/1/2020,116315913,enterprise,year,enterprise year,12000,557.58,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,480
+5/14/2021,19,5/1/2021,5/1/2021,1/1/2021,136477334,pro,year,pro year,1080,76.22,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,54
+9/7/2021,36,9/1/2021,9/1/2021,1/1/2021,150133381,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+3/3/2020,9,3/1/2020,3/1/2020,1/1/2020,29419542,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+11/17/2021,46,11/1/2021,11/1/2021,1/1/2021,11869256,pro,year,pro year,69,114.62,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,91.77
+1/24/2020,3,1/1/2020,1/1/2020,1/1/2020,33644537,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/23/2021,38,9/1/2021,9/1/2021,1/1/2021,152029814,pro,month,pro month,160,30.86,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,8
+8/12/2020,32,8/1/2020,8/1/2020,1/1/2020,30917854,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/29/2021,21,5/1/2021,5/1/2021,1/1/2021,49622784,pro,year,pro year,69,105.23,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,82.11
+7/28/2021,30,7/1/2021,7/1/2021,1/1/2021,144064871,pro,year,pro year,69,103.18,EUR,CA,North America,Canada,NA,CA,NA,Northern America,80.04
+4/29/2020,17,4/1/2020,4/1/2020,1/1/2020,114194502,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+4/15/2021,15,4/1/2021,4/1/2021,1/1/2021,120208252,pro,year,pro year,69,116.36,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.15
+7/9/2020,27,7/1/2020,7/1/2020,1/1/2020,73103918,pro,month,pro month,11.58,34.58,USD,US,North America,United States,NA,US,NA,Northern America,11.58
+4/7/2021,14,4/1/2021,4/1/2021,1/1/2021,27861402,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+2/11/2020,6,2/1/2020,2/1/2020,1/1/2020,108382447,pro,year,pro year,69,97.33,EUR,PT,Europe,Portugal,EU,PT,EMEA,Southern Europe,74.52
+10/12/2021,41,10/1/2021,10/1/2021,1/1/2021,150874299,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/14/2021,37,9/1/2021,9/1/2021,1/1/2021,147790763,pro,year,pro year,84,107,USD,NZ,Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand,84
+1/16/2021,2,1/1/2021,1/1/2021,1/1/2021,129443961,pro,year,pro year,84,107,USD,ZA,Africa,South Africa,AF,ZA,EMEA,Sub-Saharan Africa,84
+11/27/2020,47,11/1/2020,11/1/2020,1/1/2020,47960083,pro,year,pro year,101,99.02,CAD,CA,North America,Canada,NA,CA,NA,Northern America,75.75
+2/21/2020,7,2/1/2020,2/1/2020,1/1/2020,108868561,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+2/3/2021,5,2/1/2021,2/1/2021,1/1/2021,13420491,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+7/21/2021,29,7/1/2021,7/1/2021,1/1/2021,140205996,pro,month,pro month,11.8,34.8,USD,TW,Asia,"Taiwan, Province of China",AS,TW,APAC,Eastern Asia,11.8
+7/1/2020,26,7/1/2020,7/1/2020,1/1/2020,116873050,pro,year,pro year,95,90.56,SGD,SG,Asia,Singapore,AS,SG,APAC,South-eastern Asia,67.45
+12/20/2020,51,12/1/2020,12/1/2020,1/1/2020,127578685,pro,year,pro year,101,97.18,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,73.73
+9/12/2021,37,9/1/2021,9/1/2021,1/1/2021,145782745,business,year,business year,599,622,USD,EG,Africa,Egypt,AF,EG,EMEA,Northern Africa,599
+5/28/2021,21,5/1/2021,5/1/2021,1/1/2021,139041523,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/26/2020,38,9/1/2020,9/1/2020,1/1/2020,50627610,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+7/25/2020,29,7/1/2020,7/1/2020,1/1/2020,112039981,pro,year,pro year,101,92.83,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,69.69
+1/6/2020,1,1/1/2020,1/1/2020,1/1/2020,103098715,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/24/2021,34,8/1/2021,8/1/2021,1/1/2021,146207900,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+4/17/2021,15,4/1/2021,4/1/2021,1/1/2021,89322837,pro,month,pro month,10,34.62,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,11.6
+5/1/2020,17,5/1/2020,5/1/2020,1/1/2020,31305531,pro,year,pro year,84,107,USD,BB,North America,Barbados,NA,BB,NA,Latin America and the Caribbean,84
+8/24/2020,34,8/1/2020,8/1/2020,1/1/2020,121975328,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/8/2020,14,4/1/2020,4/1/2020,1/1/2020,109481108,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/20/2020,42,10/1/2020,10/1/2020,1/1/2020,36591424,pro,month,pro month,10,35.73,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,12.7
+4/21/2020,16,4/1/2020,4/1/2020,1/1/2020,922097,pro,month,pro month,11.48,34.48,USD,"",NULL,NULL,NULL,NULL,NULL,NULL,11.48
+4/17/2020,15,4/1/2020,4/1/2020,1/1/2020,109973179,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/13/2020,19,5/1/2020,5/1/2020,1/1/2020,35682793,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+11/4/2021,44,11/1/2021,11/1/2021,1/1/2021,153200490,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/29/2021,13,3/1/2021,3/1/2021,1/1/2021,136446598,pro,year,pro year,101,102.16,CAD,CA,North America,Canada,NA,CA,NA,Northern America,78.78
+4/19/2021,16,4/1/2021,4/1/2021,1/1/2021,138265888,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+6/19/2020,24,6/1/2020,6/1/2020,1/1/2020,115944532,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/16/2021,2,1/1/2021,1/1/2021,1/1/2021,129415028,pro,year,pro year,69,105.44,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,82.11
+3/1/2021,9,3/1/2021,3/1/2021,1/1/2021,134757261,pro,month,pro month,10,34.79,EUR,US,North America,United States,NA,US,NA,Northern America,11.8
+4/22/2021,16,4/1/2021,4/1/2021,1/1/2021,136452285,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/6/2020,9,3/1/2020,3/1/2020,1/1/2020,13074091,pro,year,pro year,69,106.01,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,82.8
+5/10/2020,19,5/1/2020,5/1/2020,1/1/2020,65530295,pro,month,pro month,11.49,34.49,USD,EG,Africa,Egypt,AF,EG,EMEA,Northern Africa,11.49
+6/27/2021,26,6/1/2021,6/1/2021,1/1/2021,140700495,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/6/2020,18,5/1/2020,5/1/2020,1/1/2020,112035678,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/16/2020,28,7/1/2020,7/1/2020,1/1/2020,118144642,pro,year,pro year,69,100.71,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,77.97
+10/16/2021,41,10/1/2021,10/1/2021,1/1/2021,151339947,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/10/2020,32,8/1/2020,8/1/2020,1/1/2020,119379408,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/5/2020,27,7/1/2020,7/1/2020,1/1/2020,117196786,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/3/2021,5,2/1/2021,2/1/2021,1/1/2021,132601244,pro,year,pro year,69,105.34,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,82.11
+8/22/2021,34,8/1/2021,8/1/2021,1/1/2021,146058078,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/11/2020,23,6/1/2020,6/1/2020,1/1/2020,117333774,pro,month,pro month,10,34.05,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,11.1
+6/17/2020,24,6/1/2020,6/1/2020,1/1/2020,115820438,pro,year,pro year,69,99.25,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,76.59
+5/28/2020,21,5/1/2020,5/1/2020,1/1/2020,114143326,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/28/2021,9,2/1/2021,2/1/2021,1/1/2021,120426814,pro,month,pro month,11.76,34.76,USD,SE,Europe,Sweden,EU,SE,EMEA,Northern Europe,11.76
+7/2/2020,26,7/1/2020,7/1/2020,1/1/2020,36079538,pro,month,pro month,10,35.44,GBP,US,North America,United States,NA,US,NA,Northern America,12.4
+5/27/2020,21,5/1/2020,5/1/2020,1/1/2020,114005391,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/1/2021,35,9/1/2021,9/1/2021,1/1/2021,146820000,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/5/2020,22,6/1/2020,6/1/2020,1/1/2020,114785705,pro,year,pro year,69,107.49,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,84.18
+7/15/2021,28,7/1/2021,7/1/2021,1/1/2021,145401842,pro,month,pro month,12,35,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,12
+12/22/2021,51,12/1/2021,12/1/2021,1/1/2021,158573945,pro,year,pro year,101,100.72,CAD,CA,North America,Canada,NA,CA,NA,Northern America,77.77
+10/29/2020,43,10/1/2020,10/1/2020,1/1/2020,124150584,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+2/12/2021,6,2/1/2021,2/1/2021,1/1/2021,131173035,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/31/2021,52,12/1/2021,12/1/2021,1/1/2021,159418437,pro,year,pro year,84,107,USD,PH,Asia,Philippines,AS,PH,APAC,South-eastern Asia,84
+10/17/2021,42,10/1/2021,10/1/2021,1/1/2021,151381656,pro,year,pro year,101,96.2,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,72.72
+10/21/2020,42,10/1/2020,10/1/2020,1/1/2020,125442113,pro,year,pro year,8400,101.39,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+12/1/2021,48,12/1/2021,12/1/2021,1/1/2021,43468234,pro,year,pro year,69,113.12,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,90.39
+2/21/2020,7,2/1/2020,2/1/2020,1/1/2020,107789494,pro,year,pro year,84,107,USD,NZ,Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand,84
+8/10/2020,32,8/1/2020,8/1/2020,1/1/2020,117767669,pro,year,pro year,69,111.55,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,88.32
+8/15/2021,33,8/1/2021,8/1/2021,1/1/2021,147718144,pro,month,pro month,6.99,29.99,USD,AR,South America,Argentina,SA,AR,LATAM,Latin America and the Caribbean,6.99
+7/16/2020,28,7/1/2020,7/1/2020,1/1/2020,119214924,pro,month,pro month,11.63,34.63,USD,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,11.63
+6/20/2021,25,6/1/2021,6/1/2021,1/1/2021,140782274,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/30/2021,39,9/1/2021,9/1/2021,1/1/2021,143645482,enterprise,year,enterprise year,675,698,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,675
+5/28/2020,21,5/1/2020,5/1/2020,1/1/2020,116504170,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+11/6/2020,44,11/1/2020,11/1/2020,1/1/2020,126544630,pro,month,pro month,12,35,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,12
+2/5/2021,5,2/1/2021,2/1/2021,1/1/2021,130675349,pro,year,pro year,69,117.08,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.84
+6/5/2020,22,6/1/2020,6/1/2020,1/1/2020,114833310,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/19/2020,11,3/1/2020,3/1/2020,1/1/2020,109985278,pro,year,pro year,75.6,98.6,USD,US,North America,United States,NA,US,NA,Northern America,75.6
+11/2/2021,44,11/1/2021,11/1/2021,1/1/2021,84951258,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/3/2021,13,4/1/2021,4/1/2021,1/1/2021,133136943,pro,year,pro year,101,98.73,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,75.75
+12/28/2021,52,12/1/2021,12/1/2021,1/1/2021,159113423,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/29/2020,21,5/1/2020,5/1/2020,1/1/2020,116670644,enterprise,year,enterprise year,765,788,USD,US,North America,United States,NA,US,NA,Northern America,765
+5/9/2021,19,5/1/2021,5/1/2021,1/1/2021,137307236,pro,year,pro year,8400,98.96,JPY,JP,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+2/20/2021,7,2/1/2021,2/1/2021,1/1/2021,131749276,pro,year,pro year,69,105.34,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,82.11
+7/30/2021,30,7/1/2021,7/1/2021,1/1/2021,146516893,pro,year,pro year,69,116.53,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.84
+5/4/2020,18,5/1/2020,5/1/2020,1/1/2020,111806564,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/25/2021,4,1/1/2021,1/1/2021,1/1/2021,125850576,pro,year,pro year,69,105.44,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,82.11
+10/7/2021,40,10/1/2021,10/1/2021,1/1/2021,147677526,pro,year,pro year,69,115.95,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.15
+5/31/2021,22,5/1/2021,5/1/2021,1/1/2021,139267548,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/3/2020,18,5/1/2020,5/1/2020,1/1/2020,5889471,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+10/25/2021,43,10/1/2021,10/1/2021,1/1/2021,155204430,pro,month,pro month,6.99,31.01,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,8.0385
+7/3/2021,26,7/1/2021,7/1/2021,1/1/2021,135196962,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+10/23/2020,42,10/1/2020,10/1/2020,1/1/2020,125198443,pro,year,pro year,81.93,104.93,USD,SA,Asia,Saudi Arabia,AS,SA,EMEA,Western Asia,81.93
+3/1/2021,9,3/1/2021,3/1/2021,1/1/2021,134753035,pro,month,pro month,12,35,USD,PH,Asia,Philippines,AS,PH,APAC,South-eastern Asia,12
+2/16/2020,7,2/1/2020,2/1/2020,1/1/2020,30285641,pro,year,pro year,215.2,77.17,PLN,PL,Europe,Poland,EU,PL,EMEA,Eastern Europe,53.8
+4/2/2020,13,4/1/2020,4/1/2020,1/1/2020,110632564,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+9/5/2021,36,9/1/2021,9/1/2021,1/1/2021,145125477,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/13/2020,2,1/1/2020,1/1/2020,1/1/2020,106697556,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+1/14/2020,2,1/1/2020,1/1/2020,1/1/2020,47865759,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+10/14/2021,41,10/1/2021,10/1/2021,1/1/2021,154334019,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+5/29/2020,21,5/1/2020,5/1/2020,1/1/2020,114218305,pro,year,pro year,84,107,USD,BW,Africa,Botswana,AF,BW,EMEA,Sub-Saharan Africa,84
+9/29/2021,39,9/1/2021,9/1/2021,1/1/2021,149267522,enterprise,year,enterprise year,900,923,USD,ZA,Africa,South Africa,AF,ZA,EMEA,Sub-Saharan Africa,900
+12/13/2020,50,12/1/2020,12/1/2020,1/1/2020,127067250,pro,year,pro year,69,113.51,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,90.39
+10/17/2020,41,10/1/2020,10/1/2020,1/1/2020,125276237,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+9/21/2021,38,9/1/2021,9/1/2021,1/1/2021,151711456,pro,month,pro month,10,34.57,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,11.6
+6/4/2021,22,6/1/2021,6/1/2021,1/1/2021,139582450,pro,year,pro year,69,105.23,EUR,BE,Europe,Belgium,EU,BE,EMEA,Western Europe,82.11
+2/11/2020,6,2/1/2020,2/1/2020,1/1/2020,108506927,pro,year,pro year,8400,98.39,JPY,jp,Asia,Japan,AS,JP,APAC,Eastern Asia,84
+5/6/2021,18,5/1/2021,5/1/2021,1/1/2021,139603243,pro,month,pro month,6.99,29.99,USD,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,6.99
+6/30/2020,26,6/1/2020,6/1/2020,1/1/2020,118450553,pro,year,pro year,69,107.49,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,84.18
+3/29/2020,13,3/1/2020,3/1/2020,1/1/2020,110168999,pro,month,pro month,11.54,34.54,USD,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,11.54
+3/24/2021,12,3/1/2021,3/1/2021,1/1/2021,20029680,pro,month,pro month,9.49,30.44,CAD,CA,North America,Canada,NA,CA,NA,Northern America,7.4022
+11/6/2021,44,11/1/2021,11/1/2021,1/1/2021,153705956,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/11/2021,19,5/1/2021,5/1/2021,1/1/2021,132627381,pro,month,pro month,12,35,USD,CO,South America,Colombia,SA,CO,LATAM,Latin America and the Caribbean,12
+9/3/2021,35,9/1/2021,9/1/2021,1/1/2021,147295620,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+8/2/2021,31,8/1/2021,8/1/2021,1/1/2021,146778225,pro,month,pro month,12,31.62,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,8.64
+7/15/2021,28,7/1/2021,7/1/2021,1/1/2021,145225803,pro,month,pro month,159,30.84,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,7.95
+4/14/2021,15,4/1/2021,4/1/2021,1/1/2021,135880399,pro,year,pro year,69,116.36,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.15
+4/1/2020,13,4/1/2020,4/1/2020,1/1/2020,93736929,pro,year,pro year,69,96.3,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,73.14
+3/1/2021,9,3/1/2021,3/1/2021,1/1/2021,39465477,pro,year,pro year,69,104.37,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,81.42
+6/26/2021,25,6/1/2021,6/1/2021,1/1/2021,141390220,pro,year,pro year,101,104.66,CAD,CA,North America,Canada,NA,CA,NA,Northern America,81.81
+9/5/2021,36,9/1/2021,9/1/2021,1/1/2021,146070133,pro,year,pro year,1080,76.05,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,54
+7/22/2020,29,7/1/2020,7/1/2020,1/1/2020,38850072,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+4/10/2020,14,4/1/2020,4/1/2020,1/1/2020,111699948,pro,year,pro year,79.64,102.64,USD,US,North America,United States,NA,US,NA,Northern America,79.64
+9/1/2020,35,9/1/2020,9/1/2020,1/1/2020,120681939,pro,year,pro year,69,103.3,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,80.04
+12/18/2021,50,12/1/2021,12/1/2021,1/1/2021,161062367,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+10/21/2020,42,10/1/2020,10/1/2020,1/1/2020,125207369,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+11/20/2020,46,11/1/2020,11/1/2020,1/1/2020,125567785,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/2/2021,13,4/1/2021,4/1/2021,1/1/2021,136609188,pro,month,pro month,11.72,34.72,USD,US,North America,United States,NA,US,NA,Northern America,11.72
+11/5/2020,44,11/1/2020,11/1/2020,1/1/2020,126489539,pro,year,pro year,69,103.17,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,80.04
+4/20/2021,16,4/1/2021,4/1/2021,1/1/2021,136133622,pro,year,pro year,185,45.25,TRY,TR,Asia,Turkey,AS,TR,EMEA,Western Asia,22.2
+6/7/2020,23,6/1/2020,6/1/2020,1/1/2020,115005186,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/19/2021,16,4/1/2021,4/1/2021,1/1/2021,51697445,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+11/16/2021,46,11/1/2021,11/1/2021,1/1/2021,154767738,pro,year,pro year,600,114.07,DKK,DK,Europe,Denmark,EU,DK,EMEA,Northern Europe,90
+4/20/2020,16,4/1/2020,4/1/2020,1/1/2020,110181690,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/28/2021,43,10/1/2021,10/1/2021,1/1/2021,155945921,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+3/23/2020,12,3/1/2020,3/1/2020,1/1/2020,110171189,pro,month,pro month,10,35.03,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,12
+1/5/2020,1,1/1/2020,1/1/2020,1/1/2020,106795095,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+5/17/2020,20,5/1/2020,5/1/2020,1/1/2020,115740693,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+12/6/2020,49,12/1/2020,12/1/2020,1/1/2020,128430547,pro,year,pro year,69,105.21,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,82.11
+12/24/2020,51,12/1/2020,12/1/2020,1/1/2020,129851189,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+7/1/2020,26,7/1/2020,7/1/2020,1/1/2020,43404418,pro,month,pro month,11.5,34.5,USD,US,North America,United States,NA,US,NA,Northern America,11.5
+10/9/2021,40,10/1/2021,10/1/2021,1/1/2021,150557402,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+5/26/2021,21,5/1/2021,5/1/2021,1/1/2021,138841879,pro,year,pro year,69,118.25,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,95.22
+4/1/2021,13,4/1/2021,4/1/2021,1/1/2021,128162659,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/30/2020,30,7/1/2020,7/1/2020,1/1/2020,118698609,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+3/19/2021,11,3/1/2021,3/1/2021,1/1/2021,133966694,pro,year,pro year,84,107,USD,FR,Europe,France,EU,FR,EMEA,Western Europe,84
+4/2/2020,13,4/1/2020,4/1/2020,1/1/2020,83583385,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/2/2021,31,8/1/2021,8/1/2021,1/1/2021,144513156,pro,year,pro year,69,102.8,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,80.04
+9/30/2021,39,9/1/2021,9/1/2021,1/1/2021,125172453,pro,year,pro year,82.2,105.2,USD,US,North America,United States,NA,US,NA,Northern America,82.2
+3/27/2020,12,3/1/2020,3/1/2020,1/1/2020,51785041,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/30/2020,26,6/1/2020,6/1/2020,1/1/2020,118672637,pro,year,pro year,95,90.17,SGD,SG,Asia,Singapore,AS,SG,APAC,South-eastern Asia,67.45
+4/15/2021,15,4/1/2021,4/1/2021,1/1/2021,94832190,pro,year,pro year,69,116.36,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.15
+6/4/2020,22,6/1/2020,6/1/2020,1/1/2020,117115885,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/8/2021,10,3/1/2021,3/1/2021,1/1/2021,123629087,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/23/2021,38,9/1/2021,9/1/2021,1/1/2021,151935250,pro,month,pro month,11.49,31.26,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,8.2728
+1/15/2020,2,1/1/2020,1/1/2020,1/1/2020,99274401,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/24/2020,29,7/1/2020,7/1/2020,1/1/2020,118350782,pro,year,pro year,101,96.75,CAD,CA,North America,Canada,NA,CA,NA,Northern America,73.73
+2/18/2021,7,2/1/2021,2/1/2021,1/1/2021,131579123,pro,year,pro year,714,105.51,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,85.68
+12/2/2021,48,12/1/2021,12/1/2021,1/1/2021,159473498,pro,month,pro month,159,30.44,MXN,MX,North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean,7.95
+5/20/2021,20,5/1/2021,5/1/2021,1/1/2021,136594392,pro,year,pro year,69,105.23,EUR,FR,Europe,France,EU,FR,EMEA,Western Europe,82.11
+7/21/2021,29,7/1/2021,7/1/2021,1/1/2021,143475811,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/4/2020,35,9/1/2020,9/1/2020,1/1/2020,90528442,enterprise,year,enterprise year,7500,831.82,NOK,NO,Europe,Norway,EU,NO,EMEA,Northern Europe,825
+6/22/2021,25,6/1/2021,6/1/2021,1/1/2021,143433133,pro,year,pro year,101,100,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,76.76
+1/6/2021,1,1/1/2021,1/1/2021,1/1/2021,126928625,pro,year,pro year,84,107,USD,CL,South America,Chile,SA,CL,LATAM,Latin America and the Caribbean,84
+2/8/2020,5,2/1/2020,2/1/2020,1/1/2020,107518524,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+6/26/2020,25,6/1/2020,6/1/2020,1/1/2020,118462228,business,year,business year,479,552.36,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,531.69
+4/15/2021,15,4/1/2021,4/1/2021,1/1/2021,137960619,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/4/2020,22,6/1/2020,6/1/2020,1/1/2020,114766350,pro,year,pro year,84,107,USD,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,84
+10/24/2020,42,10/1/2020,10/1/2020,1/1/2020,107147676,pro,year,pro year,600,116.62,DKK,DK,Europe,Denmark,EU,DK,EMEA,Northern Europe,96
+2/10/2020,6,2/1/2020,2/1/2020,1/1/2020,31836662,pro,year,pro year,69,97.33,EUR,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,74.52
+2/8/2020,5,2/1/2020,2/1/2020,1/1/2020,18332748,pro,year,pro year,69,97.33,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,74.52
+5/4/2020,18,5/1/2020,5/1/2020,1/1/2020,114456233,pro,year,pro year,101,87.64,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,64.64
+6/25/2020,25,6/1/2020,6/1/2020,1/1/2020,118378370,pro,year,pro year,5700,103.74,RUB,RU,Europe,Russian Federation,EU,RU,APAC,Eastern Europe,57
+2/12/2020,6,2/1/2020,2/1/2020,1/1/2020,108572841,pro,year,pro year,71.4,94.4,USD,US,North America,United States,NA,US,NA,Northern America,71.4
+2/18/2020,7,2/1/2020,2/1/2020,1/1/2020,108537433,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+7/22/2020,29,7/1/2020,7/1/2020,1/1/2020,94755325,pro,year,pro year,69,100.71,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,77.97
+1/13/2020,2,1/1/2020,1/1/2020,1/1/2020,71234653,pro,year,pro year,69,98.21,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,75.21
+2/2/2021,5,2/1/2021,2/1/2021,1/1/2021,126537487,pro,month,pro month,NULL,NULL,NULL,US,North America,United States,NA,US,NA,Northern America,NULL
+10/11/2021,41,10/1/2021,10/1/2021,1/1/2021,150714594,pro,year,pro year,101,96.2,AUD,CA,North America,Canada,NA,CA,NA,Northern America,72.72
+6/11/2020,23,6/1/2020,6/1/2020,1/1/2020,97623140,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+10/22/2020,42,10/1/2020,10/1/2020,1/1/2020,102270133,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+8/12/2020,32,8/1/2020,8/1/2020,1/1/2020,121000603,pro,year,pro year,69,102.56,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,79.35
+11/17/2020,46,11/1/2020,11/1/2020,1/1/2020,125328937,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/25/2021,38,9/1/2021,9/1/2021,1/1/2021,148871809,pro,year,pro year,101,95.65,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,72.72
+1/20/2021,3,1/1/2021,1/1/2021,1/1/2021,3369121,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+3/30/2020,13,3/1/2020,3/1/2020,1/1/2020,111237174,pro,year,pro year,69,93.02,CHF,CH,Europe,Switzerland,EU,CH,EMEA,Western Europe,69.69
+10/6/2021,40,10/1/2021,10/1/2021,1/1/2021,153464897,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+8/28/2021,34,8/1/2021,8/1/2021,1/1/2021,125907272,pro,year,pro year,69,116.79,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.84
+3/22/2020,12,3/1/2020,3/1/2020,1/1/2020,110351461,pro,year,pro year,69,97.51,EUR,DE,Europe,Germany,EU,DE,EMEA,Western Europe,74.52
+8/14/2021,32,8/1/2021,8/1/2021,1/1/2021,112857517,business,year,business year,599,622,USD,US,North America,United States,NA,US,NA,Northern America,599
+5/11/2020,19,5/1/2020,5/1/2020,1/1/2020,114653995,enterprise,year,enterprise year,900,923,USD,US,North America,United States,NA,US,NA,Northern America,900
+6/30/2020,26,6/1/2020,6/1/2020,1/1/2020,116821160,pro,year,pro year,69,107.49,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,84.18
+3/30/2020,13,3/1/2020,3/1/2020,1/1/2020,111325604,enterprise,year,enterprise year,765,788,USD,US,North America,United States,NA,US,NA,Northern America,765
+10/18/2020,42,10/1/2020,10/1/2020,1/1/2020,125124671,enterprise,year,enterprise year,90000,862.86,JPY,jp,Asia,Japan,AS,JP,APAC,Eastern Asia,900
+3/1/2021,9,3/1/2021,3/1/2021,1/1/2021,124831656,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/7/2020,23,6/1/2020,6/1/2020,1/1/2020,115032208,pro,year,pro year,101,96.01,CAD,CA,North America,Canada,NA,CA,NA,Northern America,72.72
+7/28/2021,30,7/1/2021,7/1/2021,1/1/2021,144108936,pro,year,pro year,84,107,USD,NZ,Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand,84
+3/3/2021,9,3/1/2021,3/1/2021,1/1/2021,101570409,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+9/25/2020,38,9/1/2020,9/1/2020,1/1/2020,122073273,pro,year,pro year,336,119.85,ILS,IL,Asia,Israel,AS,IL,EMEA,Western Asia,97.44
+1/14/2021,2,1/1/2021,1/1/2021,1/1/2021,7956238,pro,year,pro year,101,101.12,CAD,HM,Australia (Oceania),Heard Island and McDonald Islands,OC,HM,APAC,Australia and New Zealand,77.77
+10/2/2020,39,10/1/2020,10/1/2020,1/1/2020,124307827,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+3/31/2020,13,3/1/2020,3/1/2020,1/1/2020,106130453,pro,month,pro month,10,33.8,EUR,ES,Europe,Spain,EU,ES,EMEA,Southern Europe,10.8
+6/16/2021,24,6/1/2021,6/1/2021,1/1/2021,142955923,business,year,business year,479,684.2,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,661.02
+5/27/2021,21,5/1/2021,5/1/2021,1/1/2021,141185215,pro,month,pro month,12,35,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,12
+12/30/2020,52,12/1/2020,12/1/2020,1/1/2020,128201119,pro,year,pro year,714,106.53,SEK,SE,Europe,Sweden,EU,SE,EMEA,Northern Europe,85.68
+2/14/2020,6,2/1/2020,2/1/2020,1/1/2020,108624687,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+1/19/2020,3,1/1/2020,1/1/2020,1/1/2020,106635686,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+8/3/2020,31,8/1/2020,8/1/2020,1/1/2020,35309238,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+11/26/2021,47,11/1/2021,11/1/2021,1/1/2021,155896515,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/18/2021,29,7/1/2021,7/1/2021,1/1/2021,140934954,business,year,business year,479,579.59,EUR,US,North America,United States,NA,US,NA,Northern America,555.64
+1/28/2021,4,1/1/2021,1/1/2021,1/1/2021,128411305,pro,year,pro year,269,93.92,PLN,PL,Europe,Poland,EU,PL,EMEA,Eastern Europe,69.94
+2/5/2020,5,2/1/2020,2/1/2020,1/1/2020,108271374,pro,month,pro month,10,35.74,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,12.7
+9/24/2021,38,9/1/2021,9/1/2021,1/1/2021,148810687,pro,year,pro year,69,116.47,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.15
+4/28/2020,17,4/1/2020,4/1/2020,1/1/2020,113168613,pro,year,pro year,71.4,94.4,USD,IN,Asia,India,AS,IN,APAC,Southern Asia,71.4
+7/16/2021,28,7/1/2021,7/1/2021,1/1/2021,145501997,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+3/30/2020,13,3/1/2020,3/1/2020,1/1/2020,111226469,pro,year,pro year,101,83.49,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,60.6
+1/11/2021,2,1/1/2021,1/1/2021,1/1/2021,73883247,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+6/4/2021,22,6/1/2021,6/1/2021,1/1/2021,56100049,pro,year,pro year,69,105.23,EUR,NL,Europe,Netherlands,EU,NL,EMEA,Western Europe,82.11
+7/21/2021,29,7/1/2021,7/1/2021,1/1/2021,45654142,pro,year,pro year,81.05,104.05,USD,IT,Europe,Italy,EU,IT,EMEA,Southern Europe,81.05
+10/29/2021,43,10/1/2021,10/1/2021,1/1/2021,156059251,pro,month,pro month,6.99,32.42,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,9.4365
+7/27/2021,30,7/1/2021,7/1/2021,1/1/2021,146325193,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+9/1/2020,35,9/1/2020,9/1/2020,1/1/2020,121627627,pro,year,pro year,69,110.61,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,87.63
+3/31/2020,13,3/1/2020,3/1/2020,1/1/2020,96728328,pro,year,pro year,101,83.49,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,60.6
+4/23/2020,16,4/1/2020,4/1/2020,1/1/2020,110626688,pro,year,pro year,84,107,USD,BR,South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean,84
+3/31/2021,13,3/1/2021,3/1/2021,1/1/2021,134780158,pro,year,pro year,69,117.48,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,94.53
+1/21/2021,3,1/1/2021,1/1/2021,1/1/2021,131732470,pro,month,pro month,12,32.09,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,9.12
+7/19/2020,29,7/1/2020,7/1/2020,1/1/2020,17649509,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+12/2/2021,48,12/1/2021,12/1/2021,1/1/2021,100596165,pro,month,pro month,12,35,USD,US,North America,United States,NA,US,NA,Northern America,12
+11/24/2021,47,11/1/2021,11/1/2021,1/1/2021,155590894,pro,year,pro year,69,100.34,EUR,IE,Europe,Ireland,EU,IE,EMEA,Northern Europe,77.28
+8/4/2020,31,8/1/2020,8/1/2020,1/1/2020,120045569,pro,month,pro month,10,35.83,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,12.8
+3/3/2021,9,3/1/2021,3/1/2021,1/1/2021,134953205,pro,month,pro month,6.99,29.99,USD,US,North America,United States,NA,US,NA,Northern America,6.99
+11/17/2020,46,11/1/2020,11/1/2020,1/1/2020,11059900,enterprise,year,enterprise year,900,923,USD,US,North America,United States,NA,US,NA,Northern America,900
+5/27/2021,21,5/1/2021,5/1/2021,1/1/2021,138930696,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+7/22/2020,29,7/1/2020,7/1/2020,1/1/2020,118241150,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/6/2020,14,4/1/2020,4/1/2020,1/1/2020,110925415,pro,month,pro month,13,32.1,CAD,CA,North America,Canada,NA,CA,NA,Northern America,9.1
+6/9/2021,23,6/1/2021,6/1/2021,1/1/2021,35588842,pro,year,pro year,69,105.23,EUR,PT,Europe,Portugal,EU,PT,EMEA,Southern Europe,82.11
+8/21/2021,33,8/1/2021,8/1/2021,1/1/2021,145980960,pro,year,pro year,69,116.79,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,93.84
+12/18/2020,50,12/1/2020,12/1/2020,1/1/2020,125705528,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+10/24/2020,42,10/1/2020,10/1/2020,1/1/2020,123823014,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
+4/12/2020,15,4/1/2020,4/1/2020,1/1/2020,44869432,pro,year,pro year,101,85.27,AUD,AU,Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand,62.62
+1/20/2020,3,1/1/2020,1/1/2020,1/1/2020,56066039,pro,year,pro year,69,111.51,GBP,GB,Europe,United Kingdom,EU,GB,EMEA,Northern Europe,88.32
+4/5/2021,14,4/1/2021,4/1/2021,1/1/2021,132073883,pro,year,pro year,101,101.98,CAD,CA,North America,Canada,NA,CA,NA,Northern America,78.78
+5/29/2020,21,5/1/2020,5/1/2020,1/1/2020,116690451,pro,year,pro year,84,107,USD,US,North America,United States,NA,US,NA,Northern America,84
